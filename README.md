@@ -1,7 +1,7 @@
 # Fecr içerik
 
-Fecr uygulamasının ana sayfasındaki **Ayet**, **Hadis**, **Dua** ve **Özlü Sözler** düğmelerinin resimleri.
-Uygulama bu klasörleri doğrudan buradan okur; resim eklemek veya silmek için uygulama güncellemesi gerekmez.
+Fecr uygulamasının ana sayfasındaki **Ayet**, **Hadis**, **Dua** ve **Özlü Sözler** düğmelerinin resimleri ile
+Kütüphane rafındaki **kitaplar**. Uygulama bu klasörleri doğrudan buradan okur; eklemek veya silmek için uygulama güncellemesi gerekmez.
 
 | Düğme | Klasör |
 |---|---|
@@ -9,6 +9,7 @@ Uygulama bu klasörleri doğrudan buradan okur; resim eklemek veya silmek için 
 | Hadis | `Hadis/` |
 | Dua | `Dua/` |
 | Özlü Sözler | `OzluSozler/` |
+| Kütüphane kitapları | `Kitaplar/` |
 
 ## Resim eklemek
 
@@ -18,7 +19,15 @@ Uygulama bu klasörleri doğrudan buradan okur; resim eklemek veya silmek için 
 
 Resimler dosya adına göre sıralanır; sırayı belirlemek için `01-sabir.jpg`, `02-sukur.jpg` gibi numara verin.
 
-## Resim silmek
+## Kitap eklemek
+
+`Kitaplar/` klasörüne PDF yükleyin. Rafta görünen ad dosya adıdır: baştaki `01-` gibi sıra numarası
+gösterilmez, `-` ve `_` boşluk olur (`01-Riyazus_Salihin.pdf` → "Riyazus Salihin").
+Kapak için aynı adlı bir resim yükleyin (`01-Riyazus_Salihin.jpg`); yoksa kapak uygulamada çizilir.
+Kitap kullanıcının telefonuna ilk açılışta iner, sonra internetsiz okunur. GitHub'ın web yüklemesinde
+dosya başına 25 MB sınırı vardır; daha büyük PDF'leri sıkıştırın ya da `git` ile yükleyin (100 MB'a kadar).
+
+## Resim veya kitap silmek
 
 Dosyayı açıp çöp kutusu simgesiyle silin ve commit edin. Uygulama bir sonraki yenilemede kaldırır.
 
