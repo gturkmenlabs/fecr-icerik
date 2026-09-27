@@ -10,6 +10,7 @@ Kütüphane rafındaki **kitaplar**. Uygulama bu klasörleri doğrudan buradan o
 | Dua | `Dua/` |
 | Özlü Sözler | `OzluSozler/` |
 | Kütüphane kitapları | `Kitaplar/` |
+| Helal Tarayıcı E-kodları | `Helal/` (`ekodlari.json`) |
 
 ## Resim eklemek
 

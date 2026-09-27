@@ -1,0 +1,1382 @@
+{
+  "lisans": "CC BY 4.0 / Açık Helal Gıda Bilgi Tabanı",
+  "kaynak": "GİMDES, TSE Helal Standartları ve Fıkıh Kaynakları",
+  "kodlar": [
+    {
+      "kod": "E100",
+      "ad": "Kurkumin",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Zerdeçal (Curcuma longa) bitkisinin köklerinden elde edilen doğal sarı-turuncu renklendirici.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E101",
+      "ad": "Riboflavin (B2 Vitamini)",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "B2 vitamini. Genellikle mikrobiyal fermantasyon veya sentetik yolla üretilir, helaldir. Nadiren hayvansal kaynaklı olabilir.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E102",
+      "ad": "Tartrazin",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Sentetik kömür katranı/petrol türevi sarı azo boyar madde. Sağlık açısından tartışmalı olsa da necis/haram madde içermez.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E104",
+      "ad": "Kinolin Sarısı",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Sentetik sarı boyar madde.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E110",
+      "ad": "Sunset Yellow FCF (Portakal Sarısı S)",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Sentetik sarı-turuncu azo boyar madde.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E120",
+      "ad": "Karmin (Koşinil / Karminik Asit)",
+      "hanefi": "süpheli",
+      "safii": "haram",
+      "aciklama": "Kaktüslerde yaşayan Cochineal (Dactylopius coccus) böceğinin kurutulup ezilmesiyle elde edilen kırmızı pigment. Hanefi fıkhında kara haşeratının yenmesi caiz olmadığından helal kabul edilmez veya şüpheli görülür; Şafii mezhebinde de haramdır. GİMDES helal sertifikası vermez.",
+      "kaynak": "GİMDES / Diyanet / Fıkıh Heyetleri"
+    },
+    {
+      "kod": "E122",
+      "ad": "Azorubin (Karmoisin)",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Sentetik kırmızı azo boyar madde.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E123",
+      "ad": "Amarant",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Sentetik kırmızı-mor azo boyar madde.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E124",
+      "ad": "Ponceau 4R (Kukulin)",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Sentetik kırmızı azo boyar madde.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E127",
+      "ad": "Eritrosin",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Sentetik kiraz kırmızısı boyar madde.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E129",
+      "ad": "Allura Red AC",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Sentetik koyu kırmızı boyar madde.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E131",
+      "ad": "Patent Blue V",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Sentetik mavi boyar madde.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E132",
+      "ad": "İndigotin (İndigo Karmin)",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Sentetik veya bitkisel kaynaklı mavi boyar madde.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E133",
+      "ad": "Brilliant Blue FCF (Parlak Mavi)",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Sentetik mavi boyar madde.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E140",
+      "ad": "Klorofil ve Klorofilinler",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Isırgan otu, yonca veya ıspanak gibi yeşil bitkilerden elde edilen doğal yeşil pigment.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E141",
+      "ad": "Klorofillerin Bakır Kompleksleri",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Bitkisel klorofilin bakır ile kararlı hale getirilmiş formu.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E142",
+      "ad": "Green S (Yeşil S)",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Sentetik yeşil boyar madde.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E150a",
+      "ad": "Sade Karamel",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Şekerin kontrollü ısıtılmasıyla elde edilen doğal karamel rengi.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E150b",
+      "ad": "Kostik Sülfit Karamel",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Bitkisel karbonhidratların sülfitli bileşiklerle karamelizasyonu.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E150c",
+      "ad": "Amonyak Karamel",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Bitkisel karbonhidratların amonyum bileşikleriyle karamelizasyonu.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E150d",
+      "ad": "Amonyum Sülfit Karamel",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Gazlı içeceklerde yaygın kullanılan karamel türü; şeker kaynaklıdır, helaldir.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E151",
+      "ad": "Brilliant Black BN",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Sentetik siyah boyar madde.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E153",
+      "ad": "Bitkisel Karbon (Karbon Siyahı)",
+      "hanefi": "kaynağa bağlı",
+      "safii": "kaynağa bağlı",
+      "aciklama": "Bitkisel turba veya odundan elde edilmişse helaldir. Hayvan kemiği kömüründen elde edilmişse hayvanın türü ve kesim şekline bağlıdır.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E160a",
+      "ad": "Karotenler (Beta-Karoten)",
+      "hanefi": "kaynağa bağlı",
+      "safii": "kaynağa bağlı",
+      "aciklama": "Havuç ve bitkisel yağlardan veya sentetik yolla elde edilen sarı-turuncu renklendirici. Taşıyıcı olarak hayvansal jelatin kullanılmışsa kaynağına dikkat edilmelidir.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E160b",
+      "ad": "Annatto (Biksin, Norbiksin)",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Bixa orellana ağacı tohumlarından elde edilen bitkisel turuncu-kırmızı renklendirici.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E160c",
+      "ad": "Paprika Ekstraktı (Kapsantin)",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Kırmızı tatlı biberden elde edilen doğal kırmızı pigment.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E160d",
+      "ad": "Likopen",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Domatesten elde edilen doğal kırmızı pigment.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E160e",
+      "ad": "Beta-apo-8'-karotenal",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Narenciye kabuklarından veya sentetik elde edilen turuncu pigment.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E161b",
+      "ad": "Lutein",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Kadife çiçeğinden (Tagetes erecta) elde edilen doğal sarı pigment.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E162",
+      "ad": "Pancar Kökü Kırmızısı (Betanin)",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Kırmızı pancardan elde edilen doğal kırmızı pigment.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E163",
+      "ad": "Antosiyaninler",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Kırmızı üzüm, mürver veya böğürtlen gibi meyvelerden elde edilen mor-kırmızı pigment.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E170",
+      "ad": "Kalsiyum Karbonat",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Doğal kireçtaşı / tebeşir minerali. Beyaz renklendirici ve kalsiyum takviyesi.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E171",
+      "ad": "Titanyum Dioksit",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Doğal mineral kaynaklı beyaz renklendirici.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E172",
+      "ad": "Demir Oksitler ve Hidroksitler",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Sarı, kırmızı ve siyah mineral demir bileşikleri.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E173",
+      "ad": "Alüminyum",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Gümüşi metalik mineral renklendirici.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E174",
+      "ad": "Gümüş",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Pasta ve şekerleme süslemelerinde kullanılan saf gümüş minerali.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E175",
+      "ad": "Altın",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Özel gıda süslemelerinde kullanılan saf altın yaprağı / tozu.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E200",
+      "ad": "Sorbik Asit",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Bitkisel meyvelerden veya sentetik yolla üretilen antimikrobiyal koruyucu.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E202",
+      "ad": "Potasyum Sorbat",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Sorbik asidin potasyum tuzu. Peynir, yoğurt ve unlu mamullerde yaygın koruyucu.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E203",
+      "ad": "Kalsiyum Sorbat",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Sorbik asidin kalsiyum tuzu.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E210",
+      "ad": "Benzoik Asit",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Doğal reçineden veya sentetik elde edilen koruyucu asit.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E211",
+      "ad": "Sodyum Benzoat",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Benzoik asidin sodyum tuzu. İçecek ve soslarda yaygın koruyucu.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E212",
+      "ad": "Potasyum Benzoat",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Benzoik asidin potasyum tuzu.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E213",
+      "ad": "Kalsiyum Benzoat",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Benzoik asidin kalsiyum tuzu.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E220",
+      "ad": "Kükürt Dioksit",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Kuru meyvelerde renk koruyucu ve antimikrobiyal gaz.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E221",
+      "ad": "Sodyum Sülfit",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Sentetik mineral sülfit tuzu.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E222",
+      "ad": "Sodyum Hidrojen Sülfit",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Sentetik sülfit bileşiği.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E223",
+      "ad": "Sodyum Metabisülfit",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Bisküvi hamurlarında ve kuru meyvelerde kullanılan koruyucu mineral.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E224",
+      "ad": "Potasyum Metabisülfit",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Mineral sülfit tuzu.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E234",
+      "ad": "Nisin",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Lactococcus lactis bakterisinin fermantasyonundan elde edilen doğal antibakteriyel peptid.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E235",
+      "ad": "Natamisin (Pimarisin)",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Streptomyces natalensis bakteriyel fermantasyonu ile üretilen peynir ve sucuk yüzeyi küf önleyicisi.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E249",
+      "ad": "Potasyum Nitrit",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Et ürünlerinde botulizm bakterisini önleyen ve renk sabitleyen inorganik tuz.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E250",
+      "ad": "Sodyum Nitrit",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Kürlenmiş et ürünlerinde (salam, sucuk vb.) kullanılan inorganik koruyucu tuz.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E251",
+      "ad": "Sodyum Nitrat",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Doğal güherçile veya kimyasal yolla elde edilen nitrat tuzu.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E252",
+      "ad": "Potasyum Nitrat",
+      "hanefi": "kaynağa bağlı",
+      "safii": "kaynağa bağlı",
+      "aciklama": "Sentetik veya madensel kaynaklı olanı helaldir. Hayvan gübresinden elde edilmişse necis kaynak sebebiyle caiz değildir.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E260",
+      "ad": "Asetik Asit",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Sirke asidi. Biyolojik fermantasyon veya sentetik yolla üretilir, helaldir.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E261",
+      "ad": "Potasyum Asetat",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Asetik asidin potasyum tuzu.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E262",
+      "ad": "Sodyum Asetatlar",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Sirke aromalı cipslerde ve ekmeklerde kullanılan sodyum asetat.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E270",
+      "ad": "Laktik Asit",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Şeker pancarı, mısır nişastası veya peynir altı suyu fermantasyonuyla üretilir, helaldir.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E280",
+      "ad": "Propiyonik Asit",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Fermantasyon veya sentetik yolla üretilen küf önleyici asit.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E281",
+      "ad": "Sodyum Propiyonat",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Unlu mamullerde küf önleyici.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E282",
+      "ad": "Kalsiyum Propiyonat",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Paketli ekmeklerde küflenmeyi önlemek için yaygın olarak kullanılan mineral propiyonat tuzu.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E290",
+      "ad": "Karbondioksit",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Gazlı içeceklerde gazozlaşmayı sağlayan saf mineral gaz.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E296",
+      "ad": "Malik Asit (Elma Asidi)",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Meyvelerde doğal bulunan veya sentetik üretilen asitlik düzenleyici.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E300",
+      "ad": "Askorbik Asit (C Vitamini)",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "C vitamini. Glukozdan mikrobiyal fermantasyon ve sentezle üretilir, helaldir.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E301",
+      "ad": "Sodyum Askorbat",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "C vitamininin sodyum mineral tuzu.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E302",
+      "ad": "Kalsiyum Askorbat",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "C vitamininin kalsiyum mineral tuzu.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E304",
+      "ad": "Askorbil Palmitat / Askorbil Stearat",
+      "hanefi": "kaynağa bağlı",
+      "safii": "kaynağa bağlı",
+      "aciklama": "C vitamini ile palmitik veya stearik yağ asidinin birleşimi. Yağ asidinin bitkisel mi hayvansal mı olduğu kontrol edilmelidir.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E306",
+      "ad": "Tokoferolce Zengin Ekstrakt (E Vitamini)",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Soya ve ayçiçeği gibi bitkisel tohum yağlarından elde edilen doğal E vitamini antioksidanı.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E307",
+      "ad": "Alfa-Tokoferol",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Sentetik veya bitkisel E vitamini.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E310",
+      "ad": "Propil Gallat",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Bitkisel tanenlerden türetilen antioksidan.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E319",
+      "ad": "Tersiyer Bütilhidrokinon (TBHQ)",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Sentetik yağ antioksidanı.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E320",
+      "ad": "Bütillendirilmiş Hidroksianisol (BHA)",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Sentetik antioksidan.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E321",
+      "ad": "Bütillendirilmiş Hidroksitoluen (BHT)",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Sentetik antioksidan.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E322",
+      "ad": "Lesitin",
+      "hanefi": "kaynağa bağlı",
+      "safii": "kaynağa bağlı",
+      "aciklama": "Soya, ayçiçeği veya kanola gibi bitkisel kaynaklı olanlar helaldir. Yumurta veya hayvan iç yağından elde edilmişse hayvan kesim şartı aranır.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E325",
+      "ad": "Sodyum Laktat",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Laktik asidin sodyum tuzu; bitkisel şeker fermantasyonundan elde edilir.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E326",
+      "ad": "Potasyum Laktat",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Laktik asidin potasyum tuzu.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E327",
+      "ad": "Kalsiyum Laktat",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Laktik asidin kalsiyum tuzu.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E330",
+      "ad": "Sitrik Asit (Limon Tuzu)",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Şeker pancarı melasının Aspergillus niger mantarıyla fermantasyonundan üretilen asitlik düzenleyici; helaldir.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E331",
+      "ad": "Sodyum Sitratlar",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Sitrik asidin sodyum mineral tuzları.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E332",
+      "ad": "Potasyum Sitratlar",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Sitrik asidin potasyum tuzları.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E333",
+      "ad": "Kalsiyum Sitratlar",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Sitrik asidin kalsiyum tuzları.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E334",
+      "ad": "L-Tartarik Asit",
+      "hanefi": "kaynağa bağlı",
+      "safii": "kaynağa bağlı",
+      "aciklama": "Şarap üretim fıçılarının dibinde biriken tortudan (krem tartar) elde ediliyorsa fıkhen tartışmalıdır. Sentetik üretilen veya üzüm suyundan doğrudan kristalize edilen türleri helaldir.",
+      "kaynak": "GİMDES / Fıkıh Heyetleri"
+    },
+    {
+      "kod": "E335",
+      "ad": "Sodyum Tartaratlar",
+      "hanefi": "kaynağa bağlı",
+      "safii": "kaynağa bağlı",
+      "aciklama": "Tartarik asit tuzudur; tartarik asit kaynağına bağlıdır.",
+      "kaynak": "GİMDES / Fıkıh Heyetleri"
+    },
+    {
+      "kod": "E336",
+      "ad": "Potasyum Tartaratlar (Krem Tartar)",
+      "hanefi": "kaynağa bağlı",
+      "safii": "kaynağa bağlı",
+      "aciklama": "Kabartma tozlarında kullanılan potasyum bitartarat. Şarap yan ürünü olabildiğinden helal sertifikalama kurumları kaynağını denetler.",
+      "kaynak": "GİMDES / Fıkıh Heyetleri"
+    },
+    {
+      "kod": "E338",
+      "ad": "Fosforik Asit",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Kola ve gazlı içeceklerde asitlendirici olarak kullanılan mineral inorganik asit.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E339",
+      "ad": "Sodyum Fosfatlar",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Mineral fosfat kayasından elde edilen inorganik tuzlar.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E340",
+      "ad": "Potasyum Fosfatlar",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Mineral kaynaklı inorganik tuzlar.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E341",
+      "ad": "Kalsiyum Fosfatlar",
+      "hanefi": "kaynağa bağlı",
+      "safii": "kaynağa bağlı",
+      "aciklama": "Genellikle fosfat madenlerinden elde edilir ve helaldir. Ancak kemik külünden üretilmişse hayvanın kesim şekline bağlıdır.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E400",
+      "ad": "Aljinik Asit",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Kahverengi deniz yosunlarından elde edilen bitkisel kıvam artırıcı.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E401",
+      "ad": "Sodyum Aljinat",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Deniz yosunlarından elde edilen sodyum tuzu jelleştirici.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E406",
+      "ad": "Agar Agar",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Kırmızı deniz yosunlarından üretilen bitkisel jelleştirici. Jelatinin en güvenilir helal bitkisel alternatifidir.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E407",
+      "ad": "Karragenan",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Kırmızı deniz yosunundan elde edilen bitkisel kıvam verici.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E410",
+      "ad": "Keçiboynuzu Gamı (LBG)",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Keçiboynuzu (harnup) çekirdeklerinden elde edilen doğal bitkisel lif.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E412",
+      "ad": "Guar Gam",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Guar bitkisi tohumlarından elde edilen bitkisel kıvam artırıcı.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E414",
+      "ad": "Gam Arabik (Akasya Gamı)",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Akasya ağacı gövdesinden sızan doğal bitkisel reçine.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E415",
+      "ad": "Ksantan Gam",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Xanthomonas campestris bakterisi ile mısır/soya glukozunun fermantasyonundan üretilen bitkisel polisakkarit.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E418",
+      "ad": "Gellan Gam",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Sphingomonas elodea bakteriyel fermantasyonu ile üretilen bitkisel jelleştirici.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E420",
+      "ad": "Sorbitol",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Mısır glukozundan elde edilen şeker alkolü; sarhoş edici hamr alkolü değildir, helaldir.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E421",
+      "ad": "Mannitol",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Bitkisel kaynaklı şeker alkolü tatlandırıcı ve nem tutucu.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E422",
+      "ad": "Gliserol (Gliserin)",
+      "hanefi": "kaynağa bağlı",
+      "safii": "kaynağa bağlı",
+      "aciklama": "Bitkisel yağlardan veya petrol sentezinden elde edilmişse helaldir. Domuz iç yağından veya helal kesilmemiş hayvandan elde edilmişse haramdır. Etikette 'bitkisel gliserin' ibaresi veya helal sertifikası aranmalıdır.",
+      "kaynak": "GİMDES / Diyanet / TSE Helal"
+    },
+    {
+      "kod": "E425",
+      "ad": "Konjak Gam (Glukomannan)",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Konjak bitkisi yumrusundan elde edilen lifli jelleştirici.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E428",
+      "ad": "Jelatin",
+      "hanefi": "kaynağa bağlı",
+      "safii": "kaynağa bağlı",
+      "aciklama": "Hayvan deri ve kemiklerindeki kolajenden üretilir. Domuzdan veya İslami usulle kesilmemiş hayvandan üretilmişse kesinlikle haramdır. Helal kesim sığır veya balıktan üretilmişse helaldir.",
+      "kaynak": "GİMDES / Diyanet Din İşleri Yüksek Kurulu"
+    },
+    {
+      "kod": "E440",
+      "ad": "Pektin",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Elma ve narenciye kabuklarından elde edilen doğal bitkisel jelleştirici.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E441",
+      "ad": "Jelatin (Eski Tanım)",
+      "hanefi": "kaynağa bağlı",
+      "safii": "kaynağa bağlı",
+      "aciklama": "E428 kodlu jelatin ile aynı maddedir. Kaynağına (domuz / helal kesim sığır) bağlıdır.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E442",
+      "ad": "Amonyum Fosfatitler",
+      "hanefi": "kaynağa bağlı",
+      "safii": "kaynağa bağlı",
+      "aciklama": "Kolza yağı ve gliserolden üretilen çikolata emülgatörü. İçindeki gliserolün bitkisel veya hayvansal oluşuna bağlıdır.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E450",
+      "ad": "Difosfatlar",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Kimyasal mineral fosfat tuzu.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E451",
+      "ad": "Trifosfatlar",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Mineral fosfat tuzu.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E452",
+      "ad": "Polifosfatlar",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Mineral fosfat tuzu.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E460",
+      "ad": "Selüloz",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Bitki liflerinden elde edilen doğal selüloz.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E461",
+      "ad": "Metil Selüloz",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Bitkisel selüloz türevi.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E466",
+      "ad": "Karboksimetil Selüloz (CMC)",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Bitkisel selülozun sodyum tuzu kıvam artırıcısı.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E470a",
+      "ad": "Yağ Asitlerinin Sodyum, Potasyum ve Kalsiyum Tuzları",
+      "hanefi": "kaynağa bağlı",
+      "safii": "kaynağa bağlı",
+      "aciklama": "Yağ asitleri bitkisel veya hayvansal kökenli olabilir. Bitkisel belirtilmedikçe şüphelidir.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E470b",
+      "ad": "Yağ Asitlerinin Magnezyum Tuzları (Magnezyum Stearat)",
+      "hanefi": "kaynağa bağlı",
+      "safii": "kaynağa bağlı",
+      "aciklama": "Tablet ve şekerlemelerde yaygın kullanılan kaydırıcı. Stearik asit bitkisel veya hayvansal olabileceğinden kaynağı kontrol edilmelidir.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E471",
+      "ad": "Yağ Asitlerinin Mono- ve Digliseritleri",
+      "hanefi": "kaynağa bağlı",
+      "safii": "kaynağa bağlı",
+      "aciklama": "Gıda sanayiinde en çok kullanılan emülgatör (ekmek, dondurma, bisküvi, çikolata vb.). Bitkisel yağlardan da, domuz veya sığır iç yağından da üretilebilir. Üretici 'bitkisel kaynaklı' olduğunu beyan etmedikçe şüphelidir.",
+      "kaynak": "GİMDES / Diyanet / TSE Helal"
+    },
+    {
+      "kod": "E472a",
+      "ad": "Mono- ve Digliseritlerin Asetik Asit Esterleri",
+      "hanefi": "kaynağa bağlı",
+      "safii": "kaynağa bağlı",
+      "aciklama": "Gliserol ve yağ asidi türevidir. Yağ asidinin kaynağına (bitkisel/hayvansal) bağlıdır.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E472b",
+      "ad": "Mono- ve Digliseritlerin Laktik Asit Esterleri",
+      "hanefi": "kaynağa bağlı",
+      "safii": "kaynağa bağlı",
+      "aciklama": "Gliserol ve yağ asidi türevidir. Yağ asidinin kaynağına bağlıdır.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E472c",
+      "ad": "Mono- ve Digliseritlerin Sitrik Asit Esterleri",
+      "hanefi": "kaynağa bağlı",
+      "safii": "kaynağa bağlı",
+      "aciklama": "Gliserol ve yağ asidi türevidir. Yağ asidinin kaynağına bağlıdır.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E472e",
+      "ad": "Mono- ve Digliseritlerin Diasetiltartarik Asit Esterleri (DATEM)",
+      "hanefi": "kaynağa bağlı",
+      "safii": "kaynağa bağlı",
+      "aciklama": "Ekmek ve unlu mamullerde hacim artırıcı yaygın emülgatör. Yağ asidi ve gliserol kaynağına bağlıdır.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E473",
+      "ad": "Yağ Asitlerinin Sukroz Esterleri",
+      "hanefi": "kaynağa bağlı",
+      "safii": "kaynağa bağlı",
+      "aciklama": "Şeker ve yağ asitlerinden sentezlenir. Yağ asidi kaynağına bağlıdır.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E475",
+      "ad": "Yağ Asitlerinin Poligliserol Esterleri",
+      "hanefi": "kaynağa bağlı",
+      "safii": "kaynağa bağlı",
+      "aciklama": "Kek ve bisküvilerde yaygın emülgatör. Gliserol ve yağ asitleri hayvansal olabilir.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E476",
+      "ad": "Poligliserol Polirisinoleat (PGPR)",
+      "hanefi": "kaynağa bağlı",
+      "safii": "kaynağa bağlı",
+      "aciklama": "Çikolatalarda kakao yağı miktarını azaltmak ve akışkanlık sağlamak için kullanılır. Hint yağı ve gliserolden üretilir; gliserolün bitkisel kökenli olması şarttır.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E481",
+      "ad": "Sodyum Stearoil-2-Laktilat (SSL)",
+      "hanefi": "kaynağa bağlı",
+      "safii": "kaynağa bağlı",
+      "aciklama": "Unlu mamullerde hamur güçlendirici. Stearik asit hayvansal veya bitkisel olabileceğinden kaynağına bağlıdır.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E482",
+      "ad": "Kalsiyum Stearoil-2-Laktilat",
+      "hanefi": "kaynağa bağlı",
+      "safii": "kaynağa bağlı",
+      "aciklama": "Stearik asit kalsiyum bileşiği; kaynağına bağlıdır.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E491",
+      "ad": "Sorbitan Monostearat (Span 60)",
+      "hanefi": "kaynağa bağlı",
+      "safii": "kaynağa bağlı",
+      "aciklama": "Kuru hamur mayalarında ve kremalarda yaygın emülgatör. Stearik asit kaynağı kontrol edilmelidir.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E492",
+      "ad": "Sorbitan Tristearat",
+      "hanefi": "kaynağa bağlı",
+      "safii": "kaynağa bağlı",
+      "aciklama": "Bitkisel veya hayvansal stearik asitten üretilebilir.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E500",
+      "ad": "Sodyum Karbonatlar (Karbonat / Yemek Sodası)",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Doğal mineral soda tuzu kabartıcı.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E501",
+      "ad": "Potasyum Karbonatlar",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Mineral potasyum tuzu.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E503",
+      "ad": "Amonyum Karbonatlar (Amonyak Tuzu)",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Gevrek bisküvi yapımında kullanılan inorganik kabartıcı tuz.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E504",
+      "ad": "Magnezyum Karbonatlar",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Doğal magnezyum minerali.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E508",
+      "ad": "Potasyum Klorür",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Doğal kaya tuzu minerali.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E509",
+      "ad": "Kalsiyum Klorür",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Peynir yapımında pıhtılaşmayı sağlamak için süte eklenen mineral tuz.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E511",
+      "ad": "Magnezyum Klorür",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Deniz suyundan elde edilen doğal mineral (tofu yapımında nigari olarak da bilinir).",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E516",
+      "ad": "Kalsiyum Sülfat (Alçı Taşı)",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Doğal mineral kalsiyum sülfat.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E524",
+      "ad": "Sodyum Hidroksit (Kostik Soda)",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Pretzel simitlerinde ve asit nötralizasyonunda kullanılan kimyasal baz.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E542",
+      "ad": "Kemik Fosfatı",
+      "hanefi": "kaynağa bağlı",
+      "safii": "kaynağa bağlı",
+      "aciklama": "Hayvan kemiklerinden elde edilen kalsiyum fosfat. Domuz veya murdar hayvan kemiği riski sebebiyle helal kesim sertifikası aranmalıdır.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E551",
+      "ad": "Silikon Dioksit (Silika)",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Toz gıdalarda (tuz, kahve kreması) topaklanmayı önleyen kuvars kumu kaynaklı saf mineral.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E552",
+      "ad": "Kalsiyum Silikat",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Mineral topaklanma önleyici.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E553b",
+      "ad": "Talk Pudrası",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Doğal silikat minerali.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E570",
+      "ad": "Stearik Asit (Yağ Asidi)",
+      "hanefi": "kaynağa bağlı",
+      "safii": "kaynağa bağlı",
+      "aciklama": "Bitkisel palm yağından veya sığır/domuz iç yağından elde edilir. Kaynağına bağlıdır.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E572",
+      "ad": "Magnezyum Stearat",
+      "hanefi": "kaynağa bağlı",
+      "safii": "kaynağa bağlı",
+      "aciklama": "Stearik asidin magnezyum tuzu. Stearik asit kaynağı kontrol edilmelidir.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E620",
+      "ad": "Glutamik Asit",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Bitkisel karbonhidrat fermantasyonundan elde edilen doğal amino asit.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E621",
+      "ad": "Monosodyum Glutamat (MSG / Çin Tuzu)",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Şeker pancarı veya melasın Corynebacterium bakterileriyle fermantasyonundan üretilen lezzet artırıcı; helaldir.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E627",
+      "ad": "Disodyum Guanilat",
+      "hanefi": "kaynağa bağlı",
+      "safii": "kaynağa bağlı",
+      "aciklama": "Genellikle maya fermantasyonundan üretilir (helal). Nadiren kurutulmuş sardalya/balık veya et ekstraktından elde edilebilir.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E631",
+      "ad": "Disodyum İnosinat",
+      "hanefi": "kaynağa bağlı",
+      "safii": "kaynağa bağlı",
+      "aciklama": "Genellikle et veya balıktan elde edilir. Domuz eti veya kesilmemiş hayvan eti riski taşıdığından kaynağı ve helal sertifikası mutlaka incelenmelidir.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E635",
+      "ad": "Disodyum 5'-Ribonükleotidler",
+      "hanefi": "kaynağa bağlı",
+      "safii": "kaynağa bağlı",
+      "aciklama": "E627 ve E631 bileşimidir. İçindeki inosinat sebebiyle hayvansal kaynak riski taşır.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E900",
+      "ad": "Dimetilpolisiloksan",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Kızartma yağlarında ve reçellerde köpük önleyici silikon polimer.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E901",
+      "ad": "Balmumu (Beyaz ve Sarı)",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Bal arılarının petek salgısından elde edilen doğal mum; bal gibi mübahtır ve helaldir.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E903",
+      "ad": "Karnauba Mumu",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Brezilya karnauba palmiyesi yapraklarından elde edilen bitkisel parlatıcı mum.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E904",
+      "ad": "Şellak (Shellac)",
+      "hanefi": "süpheli",
+      "safii": "süpheli",
+      "aciklama": "Kerria lacca böceğinin ağaç dallarına bıraktığı reçineli salgı. Draje, çikolata ve meyve parlatmada kullanılır. Böceğin salgısı olması yönüyle caiz gören alimler bulunmakla birlikte böcek kalıntısı içermesi sebebiyle GİMDES ve helal kurumlarınca şüpheli kabul edilir.",
+      "kaynak": "GİMDES / Diyanet / Fıkıh Heyetleri"
+    },
+    {
+      "kod": "E905",
+      "ad": "Mikrokristalin Mum / Parafin",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Petrol rafinasyonundan elde edilen sentetik mineral mum.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E910",
+      "ad": "L-Sistein ve Tuzları",
+      "hanefi": "kaynağa bağlı",
+      "safii": "kaynağa bağlı",
+      "aciklama": "E920 ile aynı maddedir; kaynağına bağlıdır.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E920",
+      "ad": "L-Sistein",
+      "hanefi": "kaynağa bağlı",
+      "safii": "kaynağa bağlı",
+      "aciklama": "Ekmek ve unlu mamullerde hamur elastikiyeti sağlayıcı amino asit. İnsan saçından veya domuz kılından üretilmesi kesinlikle haramdır. Sentetik, mikrobiyal fermantasyon veya ördek/kaz tüyünden üretilen türleri helaldir.",
+      "kaynak": "GİMDES / Diyanet Din İşleri Yüksek Kurulu"
+    },
+    {
+      "kod": "E950",
+      "ad": "Asesülfam K",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Sentetik yapay tatlandırıcı.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E951",
+      "ad": "Aspartam",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Aspartik asit ve fenilalaninden sentetik üretilen yapay tatlandırıcı.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E952",
+      "ad": "Siklamat",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Sentetik tatlandırıcı.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E953",
+      "ad": "İzomalt",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Pancar şekerinden enzimatik yolla üretilen şeker alkolü tatlandırıcı.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E954",
+      "ad": "Sakarin",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Sentetik yapay tatlandırıcı.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E955",
+      "ad": "Sukraloz",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Sofra şekerinin klorlanmasıyla üretilen sıfır kalorili tatlandırıcı.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E960",
+      "ad": "Steviol Glikozitleri (Stevia)",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Stevia rebaudiana bitkisi yapraklarından elde edilen doğal tatlandırıcı.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E965",
+      "ad": "Maltitol",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Mısır veya buğday nişastası maltozundan elde edilen helal şeker alkolü.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E967",
+      "ad": "Ksilitol",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Huş ağacı liflerinden veya mısırdan elde edilen diş dostu şeker alkolü.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E968",
+      "ad": "Eritritol",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Glukozun mayalarla fermantasyonundan üretilen doğal şeker alkolü.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E1100",
+      "ad": "Amilaz",
+      "hanefi": "kaynağa bağlı",
+      "safii": "kaynağa bağlı",
+      "aciklama": "Nişastayı parçalayan enzim. Mantar ve bakteri fermantasyonu ile üretilmişse helaldir. Domuz pankreasından elde edilmişse haramdır.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E1101",
+      "ad": "Proteaz",
+      "hanefi": "kaynağa bağlı",
+      "safii": "kaynağa bağlı",
+      "aciklama": "Proteinleri parçalayan enzim. Papaya veya ananas gibi bitkisel kaynaklar ile mikrobiyal fermantasyon helaldir; hayvan midesinden elde edilmişse kesim durumuna bağlıdır.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E1105",
+      "ad": "Lizozim",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Tavuk yumurtası akından elde edilen doğal antibakteriyel enzim.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E1200",
+      "ad": "Polidekstroz",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Sentetik glukoz polimeri çözünür lif.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E1404",
+      "ad": "Okside Nişasta",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Mısır, patates veya buğday nişastasının modifikasyonu.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E1412",
+      "ad": "Distirş Fosfat",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Bitkisel modifiye nişasta.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E1422",
+      "ad": "Asetillenmiş Distirş Adipat",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Sos ve hazır çorbalarda kullanılan bitkisel modifiye nişasta.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E1442",
+      "ad": "Hidroksipropil Distirş Fosfat",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Süt tatlılarında ve dondurulmuş gıdalarda kullanılan bitkisel modifiye nişasta.",
+      "kaynak": "GİMDES / TSE Helal"
+    },
+    {
+      "kod": "E1520",
+      "ad": "Propilen Glikol",
+      "hanefi": "helal",
+      "safii": "helal",
+      "aciklama": "Gıda aromalarında taşıyıcı ve nem tutucu sentetik alkol türevi. Sarhoş edici hamr alkolü olmadığından helal kabul edilir; ancak helal sertifikalama kurumları aroma içeriğinde kullanım oranını denetler.",
+      "kaynak": "GİMDES / TSE Helal"
+    }
+  ]
+}
