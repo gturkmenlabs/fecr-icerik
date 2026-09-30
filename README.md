@@ -11,6 +11,7 @@ Kütüphane rafındaki **kitaplar**. Uygulama bu klasörleri doğrudan buradan o
 | Özlü Sözler | `OzluSozler/` |
 | Kütüphane kitapları | `Kitaplar/` |
 | Helal Tarayıcı E-kodları | `Helal/` (`ekodlari.json`) |
+| Kâri Tanı katalogları | `RecitID/` (`.shazamcatalog`) |
 
 ## Resim eklemek
 
@@ -27,6 +28,16 @@ gösterilmez, `-` ve `_` boşluk olur (`01-Riyazus_Salihin.pdf` → "Riyazus Sal
 Kapak için aynı adlı bir resim yükleyin (`01-Riyazus_Salihin.jpg`); yoksa kapak uygulamada çizilir.
 Kitap kullanıcının telefonuna ilk açılışta iner, sonra internetsiz okunur. GitHub'ın web yüklemesinde
 dosya başına 25 MB sınırı vardır; daha büyük PDF'leri sıkıştırın ya da `git` ile yükleyin (100 MB'a kadar).
+
+## Kâri Tanı katalogları
+
+`RecitID/` klasöründe her kâri için bir ShazamKit kataloğu (`.shazamcatalog`) vardır. Kataloglarda ses yoktur,
+yalnızca ayet kayıtlarından çıkarılmış ses imzaları vardır; uygulama dinlediği tilaveti telefonda bunlarla eşleştirir.
+Kayıtlar Islamic Network'ün açık ses arşivindendir ([alquran.cloud](https://alquran.cloud/terms-and-conditions):
+kârilerden ücretsiz, ticari olmayan yeniden dağıtım için lisanslı). Kataloglar Fecr deposundaki
+`Tools/build_recit_catalog.swift` ile üretilir:
+
+    swift Tools/build_recit_catalog.swift alafasy.shazamcatalog "ar.alafasy/128=Mişari el-Afasi"
 
 ## Resim veya kitap silmek
 
