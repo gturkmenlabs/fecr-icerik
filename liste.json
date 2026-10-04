@@ -1,0 +1,93 @@
+{
+ "Ayet": [
+  {
+   "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Ayet/.gitkeep",
+   "name": ".gitkeep",
+   "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+   "size": 0,
+   "type": "file"
+  },
+  {
+   "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Ayet/Gemini_Generated_Image_98kplv98kplv98kp.jpeg",
+   "name": "Gemini_Generated_Image_98kplv98kplv98kp.jpeg",
+   "sha": "8c270abb27ddd51a98679db5e9595f60ffbc36aa",
+   "size": 3312023,
+   "type": "file"
+  }
+ ],
+ "Dua": [
+  {
+   "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Dua/.gitkeep",
+   "name": ".gitkeep",
+   "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+   "size": 0,
+   "type": "file"
+  }
+ ],
+ "Hadis": [
+  {
+   "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Hadis/.gitkeep",
+   "name": ".gitkeep",
+   "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+   "size": 0,
+   "type": "file"
+  }
+ ],
+ "Helal": [
+  {
+   "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Helal/ekodlari.json",
+   "name": "ekodlari.json",
+   "sha": "6a3cc84760b39354e50c788a768d3bfff0a40f58",
+   "size": 45184,
+   "type": "file"
+  }
+ ],
+ "Kitaplar": [
+  {
+   "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Kitaplar/.gitkeep",
+   "name": ".gitkeep",
+   "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+   "size": 0,
+   "type": "file"
+  }
+ ],
+ "OzluSozler": [
+  {
+   "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/OzluSozler/.gitkeep",
+   "name": ".gitkeep",
+   "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+   "size": 0,
+   "type": "file"
+  }
+ ],
+ "RecitID": [
+  {
+   "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/RecitID/abdulbasit.shazamcatalog",
+   "name": "abdulbasit.shazamcatalog",
+   "sha": "c4e47c59c2239943d584dca2292452b305c90226",
+   "size": 20333044,
+   "type": "file"
+  },
+  {
+   "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/RecitID/alafasy.shazamcatalog",
+   "name": "alafasy.shazamcatalog",
+   "sha": "55ed3f55ff9844d5c64d7fb5fccd9d648e2f4deb",
+   "size": 21061840,
+   "type": "file"
+  },
+  {
+   "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/RecitID/husary.shazamcatalog",
+   "name": "husary.shazamcatalog",
+   "sha": "89230bd1f0fc6cbb0aa33bb1d53f3a9933ff89c4",
+   "size": 28453753,
+   "type": "file"
+  },
+  {
+   "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/RecitID/sudais.shazamcatalog",
+   "name": "sudais.shazamcatalog",
+   "sha": "456286b81d8817369197831cbea348720b762ecd",
+   "size": 15091764,
+   "type": "file"
+  }
+ ]
+}
