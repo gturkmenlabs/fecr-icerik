@@ -15,6 +15,15 @@
    "type": "file"
   }
  ],
+ "Bilgi": [
+  {
+   "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Bilgi/bilgiler.json",
+   "name": "bilgiler.json",
+   "sha": "f1c19c4ac9eb0e1d07ab5162f280af0105cdd059",
+   "size": 4585,
+   "type": "file"
+  }
+ ],
  "Dua": [
   {
    "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Dua/.gitkeep",
@@ -87,6 +96,36 @@
    "name": "sudais.shazamcatalog",
    "sha": "456286b81d8817369197831cbea348720b762ecd",
    "size": 15091764,
+   "type": "file"
+  }
+ ],
+ "Tools": [
+  {
+   "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Tools/build_content_index.py",
+   "name": "build_content_index.py",
+   "sha": "b7375153a0024a57a6bb77c07369ffa5534936d3",
+   "size": 2615,
+   "type": "file"
+  },
+  {
+   "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Tools/daily_info_state.json",
+   "name": "daily_info_state.json",
+   "sha": "79752b07d555b50ff2649f3b1bc78aa58936427d",
+   "size": 322,
+   "type": "file"
+  },
+  {
+   "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Tools/import_daily_info.py",
+   "name": "import_daily_info.py",
+   "sha": "77120d7fd47467f7dfdde307f4182d02803254b8",
+   "size": 9060,
+   "type": "file"
+  },
+  {
+   "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Tools/test_import_daily_info.py",
+   "name": "test_import_daily_info.py",
+   "sha": "b23232a974cb9253237e7c4d5a760cd4d40cefb4",
+   "size": 6740,
    "type": "file"
   }
  ]
