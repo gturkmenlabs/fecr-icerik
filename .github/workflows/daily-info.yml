@@ -1,0 +1,49 @@
+# fecr-icerik deposunda .github/workflows/daily-info.yml olarak yayınlanır.
+# Depoya ayrıca Tools/import_daily_info.py ve Tools/build_content_index.py kopyalanır.
+name: Günlük bilgi ve hikâye
+
+on:
+  schedule:
+    # İstanbul 00:17, 00:47 ve 06:17 (UTC+3). Gecikebilir; ilk başarılı çalışma günü kapatır.
+    - cron: "17 21 * * *"
+    - cron: "47 21 * * *"
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-info
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: İçe aktar
+        id: import
+        run: |
+          set +e
+          python3 Tools/import_daily_info.py .
+          code=$?
+          echo "code=$code" >> "$GITHUB_OUTPUT"
+          # 2 = aday havuzu tükendi: eski çift kalır, iş kırmızı olmasın ama uyarı yazılsın.
+          if [ "$code" = "2" ]; then echo "::warning::Günlük çift tamamlanamadı; eski çift korunuyor."; exit 0; fi
+          exit $code
+      - name: Commit (içerik, ardından dizin)
+        if: steps.import.outputs.code == '0'
+        run: |
+          git config user.name "fecr-icerik bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add Bilgi/bilgiler.json Tools/daily_info_state.json
+          if git diff --cached --quiet; then echo "Değişiklik yok."; exit 0; fi
+          git commit -m "Günün bilgisi ve hikâyesi: $(date -u -d '+3 hours' +%F)"
+          python3 Tools/build_content_index.py .
+          git add liste.json
+          git diff --cached --quiet || git commit -m "Dizin güncellendi"
+          git push
