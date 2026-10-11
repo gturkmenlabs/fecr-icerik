@@ -1,11 +1,15 @@
 {
   "urls": [
     "https://www.diyanethaber.com.tr/ayet-ne-demektir",
-    "https://www.diyanethaber.com.tr/kissadan-hisse-huzurun-resmi"
+    "https://www.diyanethaber.com.tr/kissadan-hisse-huzurun-resmi",
+    "https://www.diyanethaber.com.tr/aksamul-kuran-ne-demektir",
+    "https://www.diyanethaber.com.tr/cildi-alacali-kel-ve-kor-uc-kisinin-kissasi"
   ],
   "texts": [
     "1dbde644f36d3bd07b8fbb59de2a6323890aacd47b2a4998411628c98ba37261",
-    "81ef8cfbcaaa85cecec38690f9fda09e02af66bf6cbce557d3061858e095cde2"
+    "81ef8cfbcaaa85cecec38690f9fda09e02af66bf6cbce557d3061858e095cde2",
+    "ad0afb1fd725d56c40969f5a5be525bdb523af3dc79f959c0378102222067503",
+    "0db0a3c87e4f6c6c1089239e55b2059aea20d1e9ed302a79a68a7e61836ae962"
   ],
   "rejected": []
 }
