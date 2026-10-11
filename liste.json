@@ -1,4 +1,5 @@
 {
+ ".github": [],
  "Ayet": [
   {
    "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Ayet/.gitkeep",
@@ -19,8 +20,8 @@
   {
    "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Bilgi/bilgiler.json",
    "name": "bilgiler.json",
-   "sha": "f1c19c4ac9eb0e1d07ab5162f280af0105cdd059",
-   "size": 4585,
+   "sha": "193d502c5944b9b5c05906cf9a31bf6478aaec6b",
+   "size": 7814,
    "type": "file"
   }
  ],
@@ -110,8 +111,8 @@
   {
    "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Tools/daily_info_state.json",
    "name": "daily_info_state.json",
-   "sha": "79752b07d555b50ff2649f3b1bc78aa58936427d",
-   "size": 322,
+   "sha": "7d384959838e893da5f94c1e63262d420c251b81",
+   "size": 614,
    "type": "file"
   },
   {
