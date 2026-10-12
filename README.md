@@ -21,6 +21,17 @@ Kütüphane rafındaki **kitaplar**. Uygulama bu klasörleri doğrudan buradan o
 
 Resimler dosya adına göre sıralanır; sırayı belirlemek için `01-sabir.jpg`, `02-sukur.jpg` gibi numara verin.
 
+Her içerik klasöründe bulunan numaralı JPG kartları uygulamada doğrudan gösterilir. Kartların üzerindeki ayet
+ve dua referansları sure ve ayet numarasıyla, hadis referansları ise eser ve bölüm bilgisiyle verilmiştir.
+`Özlü Sözler` kartları Fecr için hazırlanmış özgün kısa metinlerdir.
+
+## Bilgi ve hikâye içeriği
+
+`Bilgi/bilgiler.json`, her yayın gününde bir **bilgi** ve bir **hikâye** yazısından oluşan güncel çifti içerir.
+Metinler Diyanet Haber'den kaynak bağlantısıyla birlikte alınır; yazının anlamı değiştirilmez, yalnızca HTML,
+satır sonu ve görünmeyen boşluk artıkları temizlenir. `Tools/import_daily_info.py` aynı URL veya metnin
+tekrar yayınlanmasını engeller ve kaynak/yayıncı doğrulaması başarısız olursa mevcut çifti korur.
+
 ## Kitap eklemek
 
 `Kitaplar/` klasörüne PDF yükleyin. Rafta görünen ad dosya adıdır: baştaki `01-` gibi sıra numarası
