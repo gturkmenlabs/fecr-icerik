@@ -62,6 +62,15 @@ def canonical(url: str):
     return f"{HOST}/{match.group(1)}" if match else None
 
 
+def clean_body(value: str) -> str:
+    """Kaynak metnin kelimelerine dokunmadan HTML boşluk artıklarını temizler."""
+    value = value.replace("\r\n", "\n").replace("\r", "\n").replace("\xa0", " ")
+    value = re.sub(r"[ \t]+\n", "\n", value)
+    value = re.sub(r"\n[ \t]+", "\n", value)
+    value = re.sub(r"\n{3,}", "\n\n", value)
+    return value.strip()
+
+
 def feed_items(xml_text: str):
     """RSS bağlantıları, akıştaki sırayla (en yeni önce)."""
     items = []
@@ -100,9 +109,7 @@ def article(page: str, url: str):
     if source_block and "source-name" in source_block.group(1):
         return None  # Ajans kaynaklı.
     title = html.unescape(re.sub(r"<[^>]+>", "", news.get("headline") or "")).strip()
-    body = html.unescape(re.sub(r"<[^>]+>", "", news.get("articleBody") or ""))
-    body = re.sub(r"[ \t]+\n", "\n", body.replace("\r\n", "\n").replace("\r", "\n"))
-    body = re.sub(r"\n{3,}", "\n\n", body).strip()
+    body = clean_body(html.unescape(re.sub(r"<[^>]+>", "", news.get("articleBody") or "")))
     if not title or len(body) < MIN_BODY:
         return None
     date = (news.get("datePublished") or "")[:10]

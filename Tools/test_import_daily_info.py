@@ -84,6 +84,12 @@ def test_publishes_valid_pair_and_cleans_body():
         assert payload["bilgiler"][1]["kaynak"] == "Diyanet Haber, 5 Kasım 2022"
 
 
+def test_clean_body_removes_nonbreaking_and_indented_whitespace():
+    assert importer.clean_body("Birinci paragraf.\xa0\n\n  İkinci paragraf.  ") == (
+        "Birinci paragraf.\n\nİkinci paragraf."
+    )
+
+
 def test_same_day_is_idempotent_and_makes_no_requests():
     with tempfile.TemporaryDirectory() as tmp:
         repo = Path(tmp)
