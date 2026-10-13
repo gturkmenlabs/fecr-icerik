@@ -1,273 +1,273 @@
 {
-  ".github": [],
-  "Ayet": [
-    {
-      "type": "file",
-      "name": ".gitkeep",
-      "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
-      "size": 0,
-      "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Ayet/.gitkeep"
-    },
-    {
-      "type": "file",
-      "name": "01-bakara-286.jpg",
-      "sha": "415dba32c212414635fb123510a8b1661e54d4bc",
-      "size": 65420,
-      "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Ayet/01-bakara-286.jpg"
-    },
-    {
-      "type": "file",
-      "name": "02-insirah-5-6.jpg",
-      "sha": "47598ede1844c2128125741271505b573cfb8abd",
-      "size": 58968,
-      "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Ayet/02-insirah-5-6.jpg"
-    },
-    {
-      "type": "file",
-      "name": "03-zumer-53.jpg",
-      "sha": "5b536e4d4b8d539c55a89d880e486474d118cd9c",
-      "size": 48682,
-      "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Ayet/03-zumer-53.jpg"
-    },
-    {
-      "type": "file",
-      "name": "04-rad-28.jpg",
-      "sha": "895035a1165fa2691aa1d05be4c04e9dfe40f0d1",
-      "size": 50156,
-      "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Ayet/04-rad-28.jpg"
-    },
-    {
-      "type": "file",
-      "name": "05-ankebut-69.jpg",
-      "sha": "e0d8dbe7e926b0b44d3284d880d8051238fa7438",
-      "size": 62160,
-      "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Ayet/05-ankebut-69.jpg"
-    },
-    {
-      "type": "file",
-      "name": "Gemini_Generated_Image_98kplv98kplv98kp.jpeg",
-      "sha": "8c270abb27ddd51a98679db5e9595f60ffbc36aa",
-      "size": 3312023,
-      "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Ayet/Gemini_Generated_Image_98kplv98kplv98kp.jpeg"
-    }
-  ],
-  "Bilgi": [
-    {
-      "type": "file",
-      "name": "bilgiler.json",
-      "sha": "5dae420330e755cee178d3cef45faaeea88f2073",
-      "size": 4253,
-      "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Bilgi/bilgiler.json"
-    }
-  ],
-  "Dua": [
-    {
-      "type": "file",
-      "name": ".gitkeep",
-      "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
-      "size": 0,
-      "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Dua/.gitkeep"
-    },
-    {
-      "type": "file",
-      "name": "01-rabbena-atina.jpg",
-      "sha": "0df012001e5c86a6304a8792451945c556600065",
-      "size": 59067,
-      "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Dua/01-rabbena-atina.jpg"
-    },
-    {
-      "type": "file",
-      "name": "02-rabbi-zidni-ilma.jpg",
-      "sha": "f4046cc0816582e40664e5e3b75ed4cb796dad5c",
-      "size": 40823,
-      "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Dua/02-rabbi-zidni-ilma.jpg"
-    },
-    {
-      "type": "file",
-      "name": "03-hasbunallah.jpg",
-      "sha": "fa6c5dea10807b823e4b82b48918ec627dd9c54f",
-      "size": 48133,
-      "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Dua/03-hasbunallah.jpg"
-    },
-    {
-      "type": "file",
-      "name": "04-rabbena-zulmena.jpg",
-      "sha": "21fb3130d77491ea6be05358bbcf61d579a15bf6",
-      "size": 47580,
-      "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Dua/04-rabbena-zulmena.jpg"
-    },
-    {
-      "type": "file",
-      "name": "05-hayir-duasi.jpg",
-      "sha": "6b26d9d20a315cdd400b4f9cf6f1da794c1b43ca",
-      "size": 56880,
-      "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Dua/05-hayir-duasi.jpg"
-    }
-  ],
-  "Hadis": [
-    {
-      "type": "file",
-      "name": ".gitkeep",
-      "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
-      "size": 0,
-      "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Hadis/.gitkeep"
-    },
-    {
-      "type": "file",
-      "name": "01-niyet.jpg",
-      "sha": "916ad66c6ad4eca7e1898be63b6b68c92c3b51db",
-      "size": 47085,
-      "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Hadis/01-niyet.jpg"
-    },
-    {
-      "type": "file",
-      "name": "02-kolaylastirin.jpg",
-      "sha": "0c94f1fd3c0b1d3149e02dc2c0c1b420b3f0e23c",
-      "size": 50741,
-      "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Hadis/02-kolaylastirin.jpg"
-    },
-    {
-      "type": "file",
-      "name": "03-merhamet.jpg",
-      "sha": "f734742bb34b499eae0b4f9f45791ee798a2a2dd",
-      "size": 52500,
-      "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Hadis/03-merhamet.jpg"
-    },
-    {
-      "type": "file",
-      "name": "04-guzel-ahlak.jpg",
-      "sha": "98a7017eb2c74ee84b69b0217cb9e5e44272a20e",
-      "size": 49573,
-      "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Hadis/04-guzel-ahlak.jpg"
-    },
-    {
-      "type": "file",
-      "name": "05-gulumsemek.jpg",
-      "sha": "609dfc37e474c91d6825ad75a9a9190f2f827b49",
-      "size": 48515,
-      "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Hadis/05-gulumsemek.jpg"
-    }
-  ],
-  "Helal": [
-    {
-      "type": "file",
-      "name": "ekodlari.json",
-      "sha": "6a3cc84760b39354e50c788a768d3bfff0a40f58",
-      "size": 46565,
-      "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Helal/ekodlari.json"
-    }
-  ],
-  "Kitaplar": [
-    {
-      "type": "file",
-      "name": ".gitkeep",
-      "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
-      "size": 0,
-      "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Kitaplar/.gitkeep"
-    }
-  ],
-  "OzluSozler": [
-    {
-      "type": "file",
-      "name": ".gitkeep",
-      "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
-      "size": 0,
-      "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/OzluSozler/.gitkeep"
-    },
-    {
-      "type": "file",
-      "name": "01-sukur.jpg",
-      "sha": "25dc578eee41d5245eeb72a10fcbb8782ea924a0",
-      "size": 49292,
-      "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/OzluSozler/01-sukur.jpg"
-    },
-    {
-      "type": "file",
-      "name": "02-sabir.jpg",
-      "sha": "a196b9e31675434fb7151310f85c1a44bbe3dfbe",
-      "size": 52066,
-      "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/OzluSozler/02-sabir.jpg"
-    },
-    {
-      "type": "file",
-      "name": "03-tevazu.jpg",
-      "sha": "01d37c5130da3b17f962ecfa4e18d227cfc1a731",
-      "size": 50155,
-      "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/OzluSozler/03-tevazu.jpg"
-    },
-    {
-      "type": "file",
-      "name": "04-vakit.jpg",
-      "sha": "035ba5af272e60b6b8fd9f898933c4f1e90cfa2f",
-      "size": 52577,
-      "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/OzluSozler/04-vakit.jpg"
-    },
-    {
-      "type": "file",
-      "name": "05-iyilik.jpg",
-      "sha": "6990f777bfc165bed1fc4d76bd0b9945edfacc82",
-      "size": 50516,
-      "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/OzluSozler/05-iyilik.jpg"
-    }
-  ],
-  "RecitID": [
-    {
-      "type": "file",
-      "name": "abdulbasit.shazamcatalog",
-      "sha": "c4e47c59c2239943d584dca2292452b305c90226",
-      "size": 20333044,
-      "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/RecitID/abdulbasit.shazamcatalog"
-    },
-    {
-      "type": "file",
-      "name": "alafasy.shazamcatalog",
-      "sha": "55ed3f55ff9844d5c64d7fb5fccd9d648e2f4deb",
-      "size": 21061840,
-      "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/RecitID/alafasy.shazamcatalog"
-    },
-    {
-      "type": "file",
-      "name": "husary.shazamcatalog",
-      "sha": "89230bd1f0fc6cbb0aa33bb1d53f3a9933ff89c4",
-      "size": 28453753,
-      "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/RecitID/husary.shazamcatalog"
-    },
-    {
-      "type": "file",
-      "name": "sudais.shazamcatalog",
-      "sha": "456286b81d8817369197831cbea348720b762ecd",
-      "size": 15091764,
-      "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/RecitID/sudais.shazamcatalog"
-    }
-  ],
-  "Tools": [
-    {
-      "type": "file",
-      "name": "build_content_index.py",
-      "sha": "b7375153a0024a57a6bb77c07369ffa5534936d3",
-      "size": 2685,
-      "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Tools/build_content_index.py"
-    },
-    {
-      "type": "file",
-      "name": "daily_info_state.json",
-      "sha": "91468ec986ef04a6167c8d89773bd2689072549c",
-      "size": 915,
-      "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Tools/daily_info_state.json"
-    },
-    {
-      "type": "file",
-      "name": "import_daily_info.py",
-      "sha": "77120d7fd47467f7dfdde307f4182d02803254b8",
-      "size": 9287,
-      "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Tools/import_daily_info.py"
-    },
-    {
-      "type": "file",
-      "name": "test_import_daily_info.py",
-      "sha": "b23232a974cb9253237e7c4d5a760cd4d40cefb4",
-      "size": 6894,
-      "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Tools/test_import_daily_info.py"
-    }
-  ]
+ ".github": [],
+ "Ayet": [
+  {
+   "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Ayet/.gitkeep",
+   "name": ".gitkeep",
+   "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+   "size": 0,
+   "type": "file"
+  },
+  {
+   "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Ayet/01-bakara-286.jpg",
+   "name": "01-bakara-286.jpg",
+   "sha": "415dba32c212414635fb123510a8b1661e54d4bc",
+   "size": 65420,
+   "type": "file"
+  },
+  {
+   "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Ayet/02-insirah-5-6.jpg",
+   "name": "02-insirah-5-6.jpg",
+   "sha": "47598ede1844c2128125741271505b573cfb8abd",
+   "size": 58968,
+   "type": "file"
+  },
+  {
+   "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Ayet/03-zumer-53.jpg",
+   "name": "03-zumer-53.jpg",
+   "sha": "5b536e4d4b8d539c55a89d880e486474d118cd9c",
+   "size": 48682,
+   "type": "file"
+  },
+  {
+   "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Ayet/04-rad-28.jpg",
+   "name": "04-rad-28.jpg",
+   "sha": "895035a1165fa2691aa1d05be4c04e9dfe40f0d1",
+   "size": 50156,
+   "type": "file"
+  },
+  {
+   "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Ayet/05-ankebut-69.jpg",
+   "name": "05-ankebut-69.jpg",
+   "sha": "e0d8dbe7e926b0b44d3284d880d8051238fa7438",
+   "size": 62160,
+   "type": "file"
+  },
+  {
+   "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Ayet/Gemini_Generated_Image_98kplv98kplv98kp.jpeg",
+   "name": "Gemini_Generated_Image_98kplv98kplv98kp.jpeg",
+   "sha": "8c270abb27ddd51a98679db5e9595f60ffbc36aa",
+   "size": 3312023,
+   "type": "file"
+  }
+ ],
+ "Bilgi": [
+  {
+   "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Bilgi/bilgiler.json",
+   "name": "bilgiler.json",
+   "sha": "ff84e98fd1d598da1a4708b82390f090d80ca594",
+   "size": 6973,
+   "type": "file"
+  }
+ ],
+ "Dua": [
+  {
+   "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Dua/.gitkeep",
+   "name": ".gitkeep",
+   "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+   "size": 0,
+   "type": "file"
+  },
+  {
+   "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Dua/01-rabbena-atina.jpg",
+   "name": "01-rabbena-atina.jpg",
+   "sha": "0df012001e5c86a6304a8792451945c556600065",
+   "size": 59067,
+   "type": "file"
+  },
+  {
+   "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Dua/02-rabbi-zidni-ilma.jpg",
+   "name": "02-rabbi-zidni-ilma.jpg",
+   "sha": "f4046cc0816582e40664e5e3b75ed4cb796dad5c",
+   "size": 40823,
+   "type": "file"
+  },
+  {
+   "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Dua/03-hasbunallah.jpg",
+   "name": "03-hasbunallah.jpg",
+   "sha": "fa6c5dea10807b823e4b82b48918ec627dd9c54f",
+   "size": 48133,
+   "type": "file"
+  },
+  {
+   "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Dua/04-rabbena-zulmena.jpg",
+   "name": "04-rabbena-zulmena.jpg",
+   "sha": "21fb3130d77491ea6be05358bbcf61d579a15bf6",
+   "size": 47580,
+   "type": "file"
+  },
+  {
+   "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Dua/05-hayir-duasi.jpg",
+   "name": "05-hayir-duasi.jpg",
+   "sha": "6b26d9d20a315cdd400b4f9cf6f1da794c1b43ca",
+   "size": 56880,
+   "type": "file"
+  }
+ ],
+ "Hadis": [
+  {
+   "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Hadis/.gitkeep",
+   "name": ".gitkeep",
+   "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+   "size": 0,
+   "type": "file"
+  },
+  {
+   "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Hadis/01-niyet.jpg",
+   "name": "01-niyet.jpg",
+   "sha": "916ad66c6ad4eca7e1898be63b6b68c92c3b51db",
+   "size": 47085,
+   "type": "file"
+  },
+  {
+   "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Hadis/02-kolaylastirin.jpg",
+   "name": "02-kolaylastirin.jpg",
+   "sha": "0c94f1fd3c0b1d3149e02dc2c0c1b420b3f0e23c",
+   "size": 50741,
+   "type": "file"
+  },
+  {
+   "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Hadis/03-merhamet.jpg",
+   "name": "03-merhamet.jpg",
+   "sha": "f734742bb34b499eae0b4f9f45791ee798a2a2dd",
+   "size": 52500,
+   "type": "file"
+  },
+  {
+   "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Hadis/04-guzel-ahlak.jpg",
+   "name": "04-guzel-ahlak.jpg",
+   "sha": "98a7017eb2c74ee84b69b0217cb9e5e44272a20e",
+   "size": 49573,
+   "type": "file"
+  },
+  {
+   "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Hadis/05-gulumsemek.jpg",
+   "name": "05-gulumsemek.jpg",
+   "sha": "609dfc37e474c91d6825ad75a9a9190f2f827b49",
+   "size": 48515,
+   "type": "file"
+  }
+ ],
+ "Helal": [
+  {
+   "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Helal/ekodlari.json",
+   "name": "ekodlari.json",
+   "sha": "6a3cc84760b39354e50c788a768d3bfff0a40f58",
+   "size": 45184,
+   "type": "file"
+  }
+ ],
+ "Kitaplar": [
+  {
+   "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Kitaplar/.gitkeep",
+   "name": ".gitkeep",
+   "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+   "size": 0,
+   "type": "file"
+  }
+ ],
+ "OzluSozler": [
+  {
+   "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/OzluSozler/.gitkeep",
+   "name": ".gitkeep",
+   "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+   "size": 0,
+   "type": "file"
+  },
+  {
+   "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/OzluSozler/01-sukur.jpg",
+   "name": "01-sukur.jpg",
+   "sha": "25dc578eee41d5245eeb72a10fcbb8782ea924a0",
+   "size": 49292,
+   "type": "file"
+  },
+  {
+   "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/OzluSozler/02-sabir.jpg",
+   "name": "02-sabir.jpg",
+   "sha": "a196b9e31675434fb7151310f85c1a44bbe3dfbe",
+   "size": 52066,
+   "type": "file"
+  },
+  {
+   "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/OzluSozler/03-tevazu.jpg",
+   "name": "03-tevazu.jpg",
+   "sha": "01d37c5130da3b17f962ecfa4e18d227cfc1a731",
+   "size": 50155,
+   "type": "file"
+  },
+  {
+   "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/OzluSozler/04-vakit.jpg",
+   "name": "04-vakit.jpg",
+   "sha": "035ba5af272e60b6b8fd9f898933c4f1e90cfa2f",
+   "size": 52577,
+   "type": "file"
+  },
+  {
+   "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/OzluSozler/05-iyilik.jpg",
+   "name": "05-iyilik.jpg",
+   "sha": "6990f777bfc165bed1fc4d76bd0b9945edfacc82",
+   "size": 50516,
+   "type": "file"
+  }
+ ],
+ "RecitID": [
+  {
+   "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/RecitID/abdulbasit.shazamcatalog",
+   "name": "abdulbasit.shazamcatalog",
+   "sha": "c4e47c59c2239943d584dca2292452b305c90226",
+   "size": 20333044,
+   "type": "file"
+  },
+  {
+   "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/RecitID/alafasy.shazamcatalog",
+   "name": "alafasy.shazamcatalog",
+   "sha": "55ed3f55ff9844d5c64d7fb5fccd9d648e2f4deb",
+   "size": 21061840,
+   "type": "file"
+  },
+  {
+   "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/RecitID/husary.shazamcatalog",
+   "name": "husary.shazamcatalog",
+   "sha": "89230bd1f0fc6cbb0aa33bb1d53f3a9933ff89c4",
+   "size": 28453753,
+   "type": "file"
+  },
+  {
+   "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/RecitID/sudais.shazamcatalog",
+   "name": "sudais.shazamcatalog",
+   "sha": "456286b81d8817369197831cbea348720b762ecd",
+   "size": 15091764,
+   "type": "file"
+  }
+ ],
+ "Tools": [
+  {
+   "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Tools/build_content_index.py",
+   "name": "build_content_index.py",
+   "sha": "b7375153a0024a57a6bb77c07369ffa5534936d3",
+   "size": 2615,
+   "type": "file"
+  },
+  {
+   "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Tools/daily_info_state.json",
+   "name": "daily_info_state.json",
+   "sha": "f6ffe5d8b6cea273e8a618716ab2959041e9d5f0",
+   "size": 1197,
+   "type": "file"
+  },
+  {
+   "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Tools/import_daily_info.py",
+   "name": "import_daily_info.py",
+   "sha": "04ca2f0b850bdc9aace3e7e54447c8d6d64734b4",
+   "size": 9300,
+   "type": "file"
+  },
+  {
+   "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Tools/test_import_daily_info.py",
+   "name": "test_import_daily_info.py",
+   "sha": "6a70b065227deffa039d868b44bd1c00c2c55ae4",
+   "size": 6950,
+   "type": "file"
+  }
+ ]
 }
