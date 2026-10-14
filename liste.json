@@ -44,6 +44,76 @@
    "type": "file"
   },
   {
+   "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Ayet/06-bakara-153-sabir.jpg",
+   "name": "06-bakara-153-sabir.jpg",
+   "sha": "dba9af5b027b81e768f5222f1ec629b781babd48",
+   "size": 133545,
+   "type": "file"
+  },
+  {
+   "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Ayet/07-talak-3-tevekkul.jpg",
+   "name": "07-talak-3-tevekkul.jpg",
+   "sha": "0f5c337915c610227b1d0c7f750c8c7a4c02195d",
+   "size": 118933,
+   "type": "file"
+  },
+  {
+   "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Ayet/08-bakara-152-zikir.jpg",
+   "name": "08-bakara-152-zikir.jpg",
+   "sha": "f2ac32aacd3325388398e0c6b07594d05aa20140",
+   "size": 159209,
+   "type": "file"
+  },
+  {
+   "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Ayet/09-ibrahim-7-sukur.jpg",
+   "name": "09-ibrahim-7-sukur.jpg",
+   "sha": "33ba19b3ebf31c927f7c42f47b46048edfd53b1c",
+   "size": 170067,
+   "type": "file"
+  },
+  {
+   "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Ayet/10-duha-5-hosnutluk.jpg",
+   "name": "10-duha-5-hosnutluk.jpg",
+   "sha": "1b791a733f5d45fc63c4ae3224c569f52b02e257",
+   "size": 154592,
+   "type": "file"
+  },
+  {
+   "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Ayet/11-ali-imran-139-uzulme.jpg",
+   "name": "11-ali-imran-139-uzulme.jpg",
+   "sha": "32b71b4c6e225c96cb582f8c1e8ea61f196aa3f4",
+   "size": 139533,
+   "type": "file"
+  },
+  {
+   "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Ayet/12-nahl-90-adalet.jpg",
+   "name": "12-nahl-90-adalet.jpg",
+   "sha": "ebfb673b2306111fc32837dc21a3d1dca476cf8e",
+   "size": 188532,
+   "type": "file"
+  },
+  {
+   "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Ayet/13-nur-35-nur.jpg",
+   "name": "13-nur-35-nur.jpg",
+   "sha": "83b7e1a1742857b4353bb7bcfbc893bf696f4b61",
+   "size": 171012,
+   "type": "file"
+  },
+  {
+   "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Ayet/14-duha-3-terk-etmedi.jpg",
+   "name": "14-duha-3-terk-etmedi.jpg",
+   "sha": "4e0ca626e637da37837bd4f4d20b426617936e9e",
+   "size": 124547,
+   "type": "file"
+  },
+  {
+   "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Ayet/15-bakara-257-aydinlik.jpg",
+   "name": "15-bakara-257-aydinlik.jpg",
+   "sha": "203e91c1351c1517f66aa51a9acd5e397d1f80a7",
+   "size": 225579,
+   "type": "file"
+  },
+  {
    "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Ayet/Gemini_Generated_Image_98kplv98kplv98kp.jpeg",
    "name": "Gemini_Generated_Image_98kplv98kplv98kp.jpeg",
    "sha": "8c270abb27ddd51a98679db5e9595f60ffbc36aa",
@@ -249,6 +319,13 @@
    "type": "file"
   },
   {
+   "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Tools/build_nano_cards.py",
+   "name": "build_nano_cards.py",
+   "sha": "0982b3b665d23b697c533888b7b549a0a2d5c0cf",
+   "size": 4993,
+   "type": "file"
+  },
+  {
    "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Tools/daily_info_state.json",
    "name": "daily_info_state.json",
    "sha": "da407dd81d6ab12b6d0fd08f631e0c18f3f6f6ff",
@@ -260,6 +337,13 @@
    "name": "import_daily_info.py",
    "sha": "04ca2f0b850bdc9aace3e7e54447c8d6d64734b4",
    "size": 9300,
+   "type": "file"
+  },
+  {
+   "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Tools/nano_cards.json",
+   "name": "nano_cards.json",
+   "sha": "2aec4867d891813662e86df1a9c49dda8f5d7176",
+   "size": 19183,
    "type": "file"
   },
   {
