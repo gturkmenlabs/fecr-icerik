@@ -9,7 +9,9 @@
     "https://www.diyanethaber.com.tr/hacerul-esved-nedir",
     "https://www.diyanethaber.com.tr/ihlas-ve-samimiyet-ornegi-magaraya-siginan-uc-kisi-kissasi",
     "https://www.diyanethaber.com.tr/hac-nedir",
-    "https://www.diyanethaber.com.tr/kissadan-hisse-ebu-hanife"
+    "https://www.diyanethaber.com.tr/kissadan-hisse-ebu-hanife",
+    "https://www.diyanethaber.com.tr/hervele-ne-demektir",
+    "https://www.diyanethaber.com.tr/hz-peygamber-sas-doneminde-egitim-ve-ogretim"
   ],
   "texts": [
     "1dbde644f36d3bd07b8fbb59de2a6323890aacd47b2a4998411628c98ba37261",
@@ -21,7 +23,27 @@
     "b35a8227ef9e11e77d0322235a59e09098af11dfbd6b76652ea1dd077e83cc4d",
     "e69242946d33432eaec9b126ff55cfc686278cd128895e88393a0b20ae07f255",
     "33d914673cccf704464a23ca18bcea7140fc734781721f6716497360fda0b3dd",
-    "0f7d1e1b0e2d9868e3a83618e65dbbff8c777b00cfc0d4e854c3fa13adcef46e"
+    "0f7d1e1b0e2d9868e3a83618e65dbbff8c777b00cfc0d4e854c3fa13adcef46e",
+    "d83c8869ba18c929a21bc925d8bad45645aa6e08e2f3c0140edf3f8fe56561ff",
+    "efe7f7c52196f2ee7bd4cb554a48fcb761b7c6dde2f7dbb6c5cbf5185538f931"
   ],
-  "rejected": []
+  "rejected": [
+    "https://www.diyanethaber.com.tr/hz-peygamber-sas-doneminde-aile",
+    "https://www.diyanethaber.com.tr/hz-peygamber-sas-doneminde-bayram-kutlamalari-eglence-ve-dugunler",
+    "https://www.diyanethaber.com.tr/hz-peygamber-sas-doneminde-edebiyat",
+    "https://www.diyanethaber.com.tr/hz-peygamber-sas-doneminde-tip-ve-saglik",
+    "https://www.diyanethaber.com.tr/hz-peygamber-sas-doneminde-yazi",
+    "https://www.diyanethaber.com.tr/hz-peygamber-sas-ve-cevre",
+    "https://www.diyanethaber.com.tr/hz-peygamber-sas-ve-cocuklar",
+    "https://www.diyanethaber.com.tr/hz-peygamber-sas-ve-fakirler",
+    "https://www.diyanethaber.com.tr/hz-peygamber-sas-ve-gencler",
+    "https://www.diyanethaber.com.tr/hz-peygamber-sas-ve-yaslilar",
+    "https://www.diyanethaber.com.tr/hz-peygamber-sas-ve-yetimler-sehit-aileleri-gaziler",
+    "https://www.diyanethaber.com.tr/hz-peygamberin-medine-donemindeki-mesajina-toplu-bir-bakis",
+    "https://www.diyanethaber.com.tr/hz-peygamberin-vefati-1",
+    "https://www.diyanethaber.com.tr/hz-peygamberin-vefatindan-once-bazi-gelismeler",
+    "https://www.diyanethaber.com.tr/hz-peygamberin-vefatindan-once-islamiyetin-genisleme-durumu",
+    "https://www.diyanethaber.com.tr/toplumsal-sorunlar-karsisinda-hz-muhammed-sas",
+    "https://www.diyanethaber.com.tr/veda-hacci-10632"
+  ]
 }
