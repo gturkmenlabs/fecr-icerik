@@ -55,8 +55,8 @@
   {
    "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Bilgi/bilgiler.json",
    "name": "bilgiler.json",
-   "sha": "53d72d867977992cfab49a942f51243ab7f74de9",
-   "size": 14852,
+   "sha": "53caa0412f889bb3738b32f78bf79c18d68fc075",
+   "size": 8408,
    "type": "file"
   }
  ],
@@ -251,8 +251,8 @@
   {
    "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Tools/daily_info_state.json",
    "name": "daily_info_state.json",
-   "sha": "d8f424f4e24b482a5e07f57bb8a7b43e7b263019",
-   "size": 3060,
+   "sha": "6c62515ac1980dc5661affb9195752507c7c69fa",
+   "size": 3488,
    "type": "file"
   },
   {
