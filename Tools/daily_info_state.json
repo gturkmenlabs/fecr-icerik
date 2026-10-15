@@ -11,7 +11,9 @@
     "https://www.diyanethaber.com.tr/hac-nedir",
     "https://www.diyanethaber.com.tr/kissadan-hisse-ebu-hanife",
     "https://www.diyanethaber.com.tr/hervele-ne-demektir",
-    "https://www.diyanethaber.com.tr/hz-peygamber-sas-doneminde-egitim-ve-ogretim"
+    "https://www.diyanethaber.com.tr/hz-peygamber-sas-doneminde-egitim-ve-ogretim",
+    "https://www.diyanethaber.com.tr/zilkade-ne-demektir",
+    "https://www.diyanethaber.com.tr/hz-ebuberin-duasi"
   ],
   "texts": [
     "1dbde644f36d3bd07b8fbb59de2a6323890aacd47b2a4998411628c98ba37261",
@@ -25,13 +27,17 @@
     "33d914673cccf704464a23ca18bcea7140fc734781721f6716497360fda0b3dd",
     "0f7d1e1b0e2d9868e3a83618e65dbbff8c777b00cfc0d4e854c3fa13adcef46e",
     "d83c8869ba18c929a21bc925d8bad45645aa6e08e2f3c0140edf3f8fe56561ff",
-    "efe7f7c52196f2ee7bd4cb554a48fcb761b7c6dde2f7dbb6c5cbf5185538f931"
+    "efe7f7c52196f2ee7bd4cb554a48fcb761b7c6dde2f7dbb6c5cbf5185538f931",
+    "3f522dee1bd12efed631414ffde29c7314f596e962786a1a26b800a8027b496d",
+    "a48597468fbc8ff8106b25ffca3be5b2388290cdf6326618e2b7f9db61f68700"
   ],
   "rejected": [
     "https://www.diyanethaber.com.tr/hz-peygamber-sas-doneminde-aile",
     "https://www.diyanethaber.com.tr/hz-peygamber-sas-doneminde-bayram-kutlamalari-eglence-ve-dugunler",
     "https://www.diyanethaber.com.tr/hz-peygamber-sas-doneminde-edebiyat",
+    "https://www.diyanethaber.com.tr/hz-peygamber-sas-doneminde-ekonomik-duzenlemeler",
     "https://www.diyanethaber.com.tr/hz-peygamber-sas-doneminde-tip-ve-saglik",
+    "https://www.diyanethaber.com.tr/hz-peygamber-sas-doneminde-toplum-yapisi",
     "https://www.diyanethaber.com.tr/hz-peygamber-sas-doneminde-yazi",
     "https://www.diyanethaber.com.tr/hz-peygamber-sas-ve-cevre",
     "https://www.diyanethaber.com.tr/hz-peygamber-sas-ve-cocuklar",
