@@ -51,7 +51,8 @@
     "https://www.diyanethaber.com.tr/hacet-namazi-nedir-nasil-kilinir",
     "https://www.diyanethaber.com.tr/kedicik-babasi-olarak-anilan-sahabi-kimdir",
     "https://www.diyanethaber.com.tr/mahfil-ne-demektir",
-    "https://www.diyanethaber.com.tr/adalet-deyince-hz-omer-ra"
+    "https://www.diyanethaber.com.tr/adalet-deyince-hz-omer-ra",
+    "https://www.diyanethaber.com.tr/camiye-girip-cikarken-okunacak-dualar"
   ],
   "texts": [
     "1dbde644f36d3bd07b8fbb59de2a6323890aacd47b2a4998411628c98ba37261",
@@ -105,7 +106,8 @@
     "ca5c105d0c125fc1db749f34ae86183a853e4753716786017e67c2aaa0a83d73",
     "e13c676fa688fe8eb4b364b6598307e68a6b6b8ed8dbd6df0557aa480288e02a",
     "4a7f68194f71664b60f66f550e2b9de0c26537099c7f41e8a2042dbf7f6c14d0",
-    "8463e5ab4e9f8bdcedf7a1fed75090bb5dfc4b448bae9a95ab457c7b8b88dccb"
+    "8463e5ab4e9f8bdcedf7a1fed75090bb5dfc4b448bae9a95ab457c7b8b88dccb",
+    "a34520acdbd64bf101e7419132def2a83945d0d52cc289c31e98bfeed1cfc51e"
   ],
   "rejected": [
     "https://www.diyanethaber.com.tr/giyinme-adabi-nasil-olmali",
@@ -129,5 +131,64 @@
     "https://www.diyanethaber.com.tr/ifk-hadisesi-ve-hz-aisenin-masumiyeti",
     "https://www.diyanethaber.com.tr/toplumsal-sorunlar-karsisinda-hz-muhammed-sas",
     "https://www.diyanethaber.com.tr/veda-hacci-10632"
-  ]
+  ],
+  "sira": {
+    "bilgi": [
+      "https://www.diyanethaber.com.tr/ayet-ne-demektir",
+      "https://www.diyanethaber.com.tr/aksamul-kuran-ne-demektir",
+      "https://www.diyanethaber.com.tr/abdest-ne-anlama-gelmektedir",
+      "https://www.diyanethaber.com.tr/hacerul-esved-nedir",
+      "https://www.diyanethaber.com.tr/hac-nedir",
+      "https://www.diyanethaber.com.tr/hervele-ne-demektir",
+      "https://www.diyanethaber.com.tr/zilkade-ne-demektir",
+      "https://www.diyanethaber.com.tr/eyyam-i-biyd-ne-anlama-gelmektedir",
+      "https://www.diyanethaber.com.tr/iman-nedir-2",
+      "https://www.diyanethaber.com.tr/salatuselam-ne-demektir",
+      "https://www.diyanethaber.com.tr/selam-ne-demektir",
+      "https://www.diyanethaber.com.tr/cahim-ne-demektir",
+      "https://www.diyanethaber.com.tr/terviye-ne-demektir",
+      "https://www.diyanethaber.com.tr/namaz-kilinmasi-mekruh-olan-vakitlerde-tavaf-namazi-kilinabilir-mi-tavaf-geri-geri-yuruyerek-yapilirsa-gecerli-olur-mu",
+      "https://www.diyanethaber.com.tr/kudus-sozlugu",
+      "https://www.diyanethaber.com.tr/savt-ne-demektir",
+      "https://www.diyanethaber.com.tr/efal-i-mukellefin-nedir",
+      "https://www.diyanethaber.com.tr/husu-ne-demektir",
+      "https://www.diyanethaber.com.tr/kabe-ne-demektir",
+      "https://www.diyanethaber.com.tr/ashab-i-eyke-ne-demektir",
+      "https://www.diyanethaber.com.tr/abdest-bittikten-sonra-okunacak-dua",
+      "https://www.diyanethaber.com.tr/teheccud-ne-demektir-teheccud-namazi-nasil-kilinir",
+      "https://www.diyanethaber.com.tr/ezan-duasi-ve-anlami",
+      "https://www.diyanethaber.com.tr/gulmek-namazi-bozar-mi",
+      "https://www.diyanethaber.com.tr/hacet-namazi-nedir-nasil-kilinir",
+      "https://www.diyanethaber.com.tr/mahfil-ne-demektir",
+      "https://www.diyanethaber.com.tr/camiye-girip-cikarken-okunacak-dualar"
+    ],
+    "hikaye": [
+      "https://www.diyanethaber.com.tr/cildi-alacali-kel-ve-kor-uc-kisinin-kissasi",
+      "https://www.diyanethaber.com.tr/kissadan-hisse-zamanin-kiymeti",
+      "https://www.diyanethaber.com.tr/ihlas-ve-samimiyet-ornegi-magaraya-siginan-uc-kisi-kissasi",
+      "https://www.diyanethaber.com.tr/kissadan-hisse-ebu-hanife",
+      "https://www.diyanethaber.com.tr/hz-peygamber-sas-doneminde-egitim-ve-ogretim",
+      "https://www.diyanethaber.com.tr/hz-ebuberin-duasi",
+      "https://www.diyanethaber.com.tr/hanimlarin-hatibi-olarak-bilinen-sahabi-kimdir",
+      "https://www.diyanethaber.com.tr/kadin-muhacirlerden-en-son-vefat-eden-sahabi-kimdir",
+      "https://www.diyanethaber.com.tr/hazreti-ali-ranin-annesi-fatima-binti-esed",
+      "https://www.diyanethaber.com.tr/peygamberimizin-sas-kucuk-sirdasi",
+      "https://www.diyanethaber.com.tr/peygamber-efendimizin-sas-halid-bin-velide-ogrettigi-dua",
+      "https://www.diyanethaber.com.tr/hz-osmanin-annesini-taniyalim",
+      "https://www.diyanethaber.com.tr/musab-bin-umeyrin-esi-hamne-binti-cahsin-hayati",
+      "https://www.diyanethaber.com.tr/zussehadeteyn-diye-taninan-sahabi-kimdir",
+      "https://www.diyanethaber.com.tr/peygamber-efendimizin-sas-hz-muaza-ogrettigi-dua",
+      "https://www.diyanethaber.com.tr/peygamberimizin-seyyidul-kurra-lakabiyla-ovdugu-sahabi-kimdir",
+      "https://www.diyanethaber.com.tr/redifu-resulillah-sifatiyla-anilan-sahabi-kimdir",
+      "https://www.diyanethaber.com.tr/sabir-ve-metanette-oncu-hz-hansa",
+      "https://www.diyanethaber.com.tr/filistinli-sahabi-temim-ed-dari",
+      "https://www.diyanethaber.com.tr/filistinde-sahabeler",
+      "https://www.diyanethaber.com.tr/muminlerin-annesi-hz-cuveyriyenin-duasi",
+      "https://www.diyanethaber.com.tr/zul-cenaheyn-iki-kanatli-lakabiyla-bilinen-sahabi-kimdir",
+      "https://www.diyanethaber.com.tr/gecesini-secdesiyle-aydinlatan-sahabi-abdullah-bin-omer",
+      "https://www.diyanethaber.com.tr/kedicik-babasi-olarak-anilan-sahabi-kimdir",
+      "https://www.diyanethaber.com.tr/adalet-deyince-hz-omer-ra",
+      "https://www.diyanethaber.com.tr/kissadan-hisse-huzurun-resmi"
+    ]
+  }
 }
