@@ -1,0 +1,49 @@
+# fecr-icerik deposunda .github/workflows/daily-cards.yml olarak yayınlanır.
+# Depoya ayrıca şunlar kopyalanır (Tools/ altına):
+# - import_daily_cards.py, render_daily_card.swift, daily_cards_pool.json
+# - fonts/ScheherazadeNew-Regular.ttf, fonts/Fraunces.ttf ve iki OFL lisans dosyası (Shared/Fonts)
+# - kaynak/quran-uthmani.txt: Tanzil'in resmî Uthmani 1.1 txt-2 dosyası, telif bloğuyla değiştirilmeden
+#   (Kaynaklar/Kuran/quran-uthmani.txt, SHA-256 4b91f9e6…)
+# - kaynak/hadeethenc-tr.json: FajrUp/ContentData/hadeethenc-tr.json kopyası (Hadis/ altına değil)
+# Arapça harf birleştirmesi CoreText ile yapıldığı için iş macOS'ta çalışır.
+name: Günün kartları
+
+on:
+  schedule:
+    # İstanbul 00:07, 00:37 ve 06:07 (UTC+3). Gecikebilir; ilk başarılı çalışma günü kapatır.
+    - cron: "7 21 * * *"
+    - cron: "37 21 * * *"
+    - cron: "7 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-cards
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: macos-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      # 2 (kaynak erişilemedi ya da çizim başarısız) gerçek hatadır: iş kırmızı olur, dünkü kartlar korunur.
+      - name: Kartları üret
+        run: python3 Tools/import_daily_cards.py .
+      - name: Commit (kartlar, ardından dizin)
+        run: |
+          git config user.name "fecr-icerik bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add Ayet/00-gunun-ayeti.jpg Hadis/00-gunun-hadisi.jpg Dua/00-gunun-duasi.jpg Tools/daily_cards_state.json
+          if git diff --cached --quiet; then echo "Değişiklik yok."; exit 0; fi
+          git commit -m "Günün kartları: $(TZ=Europe/Istanbul date +%F)"
+          # Günlük bilgi işi de main'e yazar: önce onun commit'leri alınır, dizin en son üretilir.
+          git pull --rebase origin main
+          python3 Tools/build_content_index.py .
+          git add liste.json
+          git diff --cached --quiet || git commit -m "Dizin güncellendi"
+          git push
