@@ -55,8 +55,8 @@
   {
    "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Bilgi/bilgiler.json",
    "name": "bilgiler.json",
-   "sha": "4b1649d7e503388e11463ad08e5d33f5e05d8b52",
-   "size": 5776,
+   "sha": "5f658cf0b8205befddf8027876f92263d04ef940",
+   "size": 4571,
    "type": "file"
   }
  ],
@@ -251,22 +251,22 @@
   {
    "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Tools/daily_info_state.json",
    "name": "daily_info_state.json",
-   "sha": "036d109eb551c3ea86b8269677b32236f886f821",
-   "size": 9213,
+   "sha": "486278cefff1665b190923b2396566e7ceba5719",
+   "size": 13390,
    "type": "file"
   },
   {
    "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Tools/import_daily_info.py",
    "name": "import_daily_info.py",
-   "sha": "04ca2f0b850bdc9aace3e7e54447c8d6d64734b4",
-   "size": 9300,
+   "sha": "0c868a80e2048cb5b709276ab08b928ce1c9ec81",
+   "size": 10503,
    "type": "file"
   },
   {
    "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Tools/test_import_daily_info.py",
    "name": "test_import_daily_info.py",
-   "sha": "6a70b065227deffa039d868b44bd1c00c2c55ae4",
-   "size": 6950,
+   "sha": "176b0347a1a08af861b2f38d4be7ab8863b2b580",
+   "size": 9518,
    "type": "file"
   }
  ]
