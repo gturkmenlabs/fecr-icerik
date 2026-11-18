@@ -9,6 +9,13 @@
    "type": "file"
   },
   {
+   "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Ayet/00-gunun-ayeti.jpg",
+   "name": "00-gunun-ayeti.jpg",
+   "sha": "ff817e88307b2deb47f8e17990fffa3271701aa0",
+   "size": 692879,
+   "type": "file"
+  },
+  {
    "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Ayet/01-bakara-286.jpg",
    "name": "01-bakara-286.jpg",
    "sha": "415dba32c212414635fb123510a8b1661e54d4bc",
@@ -69,6 +76,13 @@
    "type": "file"
   },
   {
+   "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Dua/00-gunun-duasi.jpg",
+   "name": "00-gunun-duasi.jpg",
+   "sha": "2003d50c85410720f2f94898fb6de47064790115",
+   "size": 589961,
+   "type": "file"
+  },
+  {
    "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Dua/01-rabbena-atina.jpg",
    "name": "01-rabbena-atina.jpg",
    "sha": "0df012001e5c86a6304a8792451945c556600065",
@@ -110,6 +124,13 @@
    "name": ".gitkeep",
    "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
    "size": 0,
+   "type": "file"
+  },
+  {
+   "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Hadis/00-gunun-hadisi.jpg",
+   "name": "00-gunun-hadisi.jpg",
+   "sha": "24d21c0b4a348dabe7381ceb27430652d9e9c2a2",
+   "size": 402072,
    "type": "file"
   },
   {
@@ -249,6 +270,20 @@
    "type": "file"
   },
   {
+   "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Tools/daily_cards_pool.json",
+   "name": "daily_cards_pool.json",
+   "sha": "8117d54457ef35b4e001480ca1ea2ce76a4f6074",
+   "size": 6595,
+   "type": "file"
+  },
+  {
+   "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Tools/daily_cards_state.json",
+   "name": "daily_cards_state.json",
+   "sha": "59bf35deb8690bfec1feafbd4c3e2ab5e7e03e4c",
+   "size": 2768,
+   "type": "file"
+  },
+  {
    "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Tools/daily_info_state.json",
    "name": "daily_info_state.json",
    "sha": "486278cefff1665b190923b2396566e7ceba5719",
@@ -256,10 +291,31 @@
    "type": "file"
   },
   {
+   "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Tools/import_daily_cards.py",
+   "name": "import_daily_cards.py",
+   "sha": "936fe53400ff250cad6d0a4a2cbab9c778fa1da3",
+   "size": 18578,
+   "type": "file"
+  },
+  {
    "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Tools/import_daily_info.py",
    "name": "import_daily_info.py",
    "sha": "0c868a80e2048cb5b709276ab08b928ce1c9ec81",
    "size": 10503,
+   "type": "file"
+  },
+  {
+   "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Tools/render_daily_card.swift",
+   "name": "render_daily_card.swift",
+   "sha": "984bd5b26bb4010e24d823a661cdc44d0fdfb2e5",
+   "size": 10844,
+   "type": "file"
+  },
+  {
+   "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Tools/test_import_daily_cards.py",
+   "name": "test_import_daily_cards.py",
+   "sha": "ffe8e360c5bbb59221388252c0cc575a73780154",
+   "size": 11779,
    "type": "file"
   },
   {
