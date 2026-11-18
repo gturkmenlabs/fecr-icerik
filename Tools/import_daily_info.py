@@ -7,17 +7,20 @@ Her çalışmada İstanbul gününe tarihli bir bilgi ve bir hikâyeyi Diyanet H
     python3 import_daily_info.py <fecr-icerik klonu> [--today YYYY-MM-DD]
 
 Çıkış kodu: 0 = bugünün çifti yayında (yeni yazıldı ya da zaten vardı), 2 = çift tamamlanamadı
-(hiçbir dosya değişmedi, eski çift korunur), 3 = künye izni doğrulanamadı.
+(kaynak erişilemedi; hiçbir dosya değişmedi, eski çift korunur), 3 = künye izni doğrulanamadı.
 
 Kurallar: metin yeniden yazılmaz, özetlenmez, üretilmez; yalnızca yazının kendi metni alınır.
-Ajans kaynaklı yazılar, Diyanet Haber yayıncı kanıtı olmayanlar ve daha önce yayınlanmış URL/metin
-reddedilir. Yalnızca standart kütüphane kullanılır.
+Ajans kaynaklı yazılar ve Diyanet Haber yayıncı kanıtı olmayanlar reddedilir. Önce Fecr'de hiç
+yayınlanmamış RSS yazısı seçilir. Kaynak günde bir yeni yazı yayınlamadığı için bu havuz tükenince,
+o türün en uzun süredir gösterilmeyen yazısı kaynaktan yeniden alınıp aynı kurallarla doğrulanır.
+Böylece her gün önceki günden farklı bir çift yayınlanır. Yalnızca standart kütüphane kullanılır.
 """
 import hashlib
 import html
 import json
 import re
 import sys
+import urllib.error
 import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime
@@ -34,7 +37,6 @@ FEEDS = {
 INFO_FILE = "Bilgi/bilgiler.json"
 STATE_FILE = "Tools/daily_info_state.json"
 MIN_BODY = 200
-CATEGORY_FETCH_LIMIT = 40
 MONTHS = ["Ocak", "Şubat", "Mart", "Nisan", "Mayıs", "Haziran", "Temmuz", "Ağustos", "Eylül", "Ekim", "Kasım", "Aralık"]
 LICENSE = ("Diyanet Haber künyesi, ajans kaynaklı haberler hariç içeriğin etkin kaynak bağlantısı "
            f"belirtilerek kullanılmasına izin verir ({KUNYE}). Koşullu izindir; kamu malı değildir.")
@@ -81,15 +83,6 @@ def feed_items(xml_text: str):
     return items
 
 
-def category_links(page: str):
-    found = []
-    for match in re.finditer(r'href="(?:https://www\.diyanethaber\.com\.tr)?/([a-z0-9][a-z0-9-]*)"', page):
-        url = f"{HOST}/{match.group(1)}"
-        if url not in found:
-            found.append(url)
-    return found
-
-
 def article(page: str, url: str):
     """Yazıdan {baslik, metin, bolum, tarih} çıkarır; ajans/yayıncı/uzunluk şartı sağlanmazsa None."""
     news = None
@@ -134,45 +127,56 @@ def load_json(path: Path, default):
         return default
 
 
-def pick(kind: str, state: dict, getter, budget: list):
-    """Daha önce yayınlanmamış ilk geçerli yazıyı döndürür; RSS bitince kategori sayfalarına bakar."""
+def pick_new(kind: str, state: dict, getter, budget: list):
+    """RSS akışlarında Fecr'de daha önce yayınlanmamış ilk geçerli yazıyı döndürür."""
     seen_urls, seen_texts, rejected = set(state["urls"]), set(state["texts"]), set(state["rejected"])
-
-    def try_urls(urls):
-        for url in urls:
-            if url in seen_urls or url in rejected:
-                continue
-            if budget[0] <= 0:
-                return None
-            budget[0] -= 1
-            try:
-                parsed = article(getter(url), url)
-            except Exception:
-                continue  # Geçici hata; reddedilenlere yazma.
-            if not parsed or digest(parsed["metin"]) in seen_texts:
-                rejected.add(url)
-                continue
-            return parsed
-        return None
-
     candidates = []
     for slug in FEEDS[kind]:
         try:
             candidates += [url for url in feed_items(getter(f"{HOST}/rss/{slug}")) if url not in candidates]
         except Exception:
             continue
-    found = try_urls(candidates)
-    if not found:
-        budget[0] = min(budget[0], CATEGORY_FETCH_LIMIT)
-        for slug in FEEDS[kind]:
-            try:
-                found = try_urls([url for url in category_links(getter(f"{HOST}/{slug}")) if url not in candidates])
-            except Exception:
-                continue
-            if found:
-                break
+    found = None
+    for url in candidates:
+        if url in seen_urls or url in rejected:
+            continue
+        if budget[0] <= 0:
+            break
+        budget[0] -= 1
+        try:
+            parsed = article(getter(url), url)
+        except Exception:
+            continue  # Geçici hata; reddedilenlere yazma.
+        if not parsed or digest(parsed["metin"]) in seen_texts:
+            rejected.add(url)
+            continue
+        found = parsed
+        break
     state["rejected"] = sorted(rejected)
     return found
+
+
+def pick_repeat(kind: str, state: dict, getter, budget: list, exclude: set):
+    """Bu türün en uzun süredir gösterilmeyen yazısını kaynaktan yeniden alıp doğrular."""
+    queue = state["sira"][kind]
+    for url in list(queue):
+        if url in exclude:
+            continue
+        if budget[0] <= 0:
+            return None
+        budget[0] -= 1
+        try:
+            parsed = article(getter(url), url)
+        except urllib.error.HTTPError as error:
+            if error.code in (404, 410):
+                queue.remove(url)  # Kaynaktan kaldırılmış.
+            continue
+        except Exception:
+            continue  # Geçici hata; sırada kalır.
+        if parsed:
+            return parsed
+        queue.remove(url)  # Artık kurallara uymuyor (ör. ajans kaynaklı); bir daha gösterilmez.
+    return None
 
 
 def entry(kind: str, parsed: dict) -> dict:
@@ -196,19 +200,30 @@ def run(repo: Path, today: str, getter=fetch) -> int:
     except Exception as error:
         print(f"Künye okunamadı: {error}", file=sys.stderr)
         return 3
-    state = load_json(state_path, {})
-    state = {key: list(state.get(key, [])) for key in ("urls", "texts", "rejected")}
+    saved = load_json(state_path, {})
+    state = {key: list(saved.get(key, [])) for key in ("urls", "texts", "rejected")}
+    # `sira`: tür başına yayınlanmış adresler, en uzun süredir gösterilmeyen önce. Eski durum
+    # dosyasında yoksa `urls`'ten türetilir: her başarılı çalışma önce bilgiyi, sonra hikâyeyi ekledi.
+    queues = saved.get("sira") or {"bilgi": state["urls"][0::2], "hikaye": state["urls"][1::2]}
+    state["sira"] = {kind: list(queues.get(kind, [])) for kind in FEEDS}
+    # Dünün çifti ve bu çalışmada seçilen yazı tekrar seçilmez; çift farklı kaynaklardan oluşur.
+    exclude = {item.get("kaynak_url") for item in current.get("bilgiler", []) if isinstance(item, dict)}
     budget = [120]
     chosen = {}
     for kind in ("bilgi", "hikaye"):
-        parsed = pick(kind, state, getter, budget)
+        parsed = pick_new(kind, state, getter, budget) or pick_repeat(kind, state, getter, budget, exclude)
         if not parsed:
-            print("Çift tamamlanamadı (aday havuzu tükendi veya kaynak erişilemedi); eski çift korunuyor.", file=sys.stderr)
+            print("Çift tamamlanamadı (kaynak erişilemedi veya geçerli yazı yok); eski çift korunuyor.", file=sys.stderr)
             return 2
         chosen[kind] = parsed
-        # Aynı yazı iki akışta çıksa bile çift farklı kaynaklardan oluşur.
-        state["urls"].append(parsed["url"])
-        state["texts"].append(digest(parsed["metin"]))
+        exclude.add(parsed["url"])
+        if parsed["url"] not in state["urls"]:
+            state["urls"].append(parsed["url"])
+            state["texts"].append(digest(parsed["metin"]))
+        queue = state["sira"][kind]
+        if parsed["url"] in queue:
+            queue.remove(parsed["url"])
+        queue.append(parsed["url"])
     payload = {"schema_version": 2, "yayin_tarihi": today, "lisans": LICENSE, "kaynak": SOURCE,
                "bilgiler": [entry(kind, chosen[kind]) for kind in ("bilgi", "hikaye")]}
     for path, value in ((info_path, payload), (state_path, state)):

@@ -25,18 +25,11 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+      # Yeni yazı bitince eski yazılar sırayla yeniden yayınlanır; 2 (kaynak erişilemedi) ve
+      # 3 (künye izni) gerçek hatadır: iş kırmızı olur, eski çift korunur.
       - name: İçe aktar
-        id: import
-        run: |
-          set +e
-          python3 Tools/import_daily_info.py .
-          code=$?
-          echo "code=$code" >> "$GITHUB_OUTPUT"
-          # 2 = aday havuzu tükendi: eski çift kalır, iş kırmızı olmasın ama uyarı yazılsın.
-          if [ "$code" = "2" ]; then echo "::warning::Günlük çift tamamlanamadı; eski çift korunuyor."; exit 0; fi
-          exit $code
+        run: python3 Tools/import_daily_info.py .
       - name: Commit (içerik, ardından dizin)
-        if: steps.import.outputs.code == '0'
         run: |
           git config user.name "fecr-icerik bot"
           git config user.email "actions@users.noreply.github.com"

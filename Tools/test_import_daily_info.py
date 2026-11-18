@@ -109,14 +109,70 @@ def test_next_day_never_repeats_url_or_text():
         assert not first & {e["kaynak_url"] for e in read(repo)["bilgiler"]}
 
 
-def test_exhausted_pool_keeps_previous_pair():
+def pair(repo):
+    return [e["kaynak_url"] for e in read(repo)["bilgiler"]]
+
+
+def test_exhausted_pool_repeats_least_recently_shown_pair():
+    with tempfile.TemporaryDirectory() as tmp:
+        repo = Path(tmp)
+        importer.run(repo, "2026-10-08", site())
+        first = pair(repo)
+        importer.run(repo, "2026-10-09", site())
+        second = pair(repo)
+        assert importer.run(repo, "2026-10-10", site()) == 0
+        assert_app_accepts(read(repo), "2026-10-10")
+        assert pair(repo) == first
+        assert importer.run(repo, "2026-10-11", site()) == 0
+        assert pair(repo) == second
+
+
+def test_new_article_wins_over_repeat():
     with tempfile.TemporaryDirectory() as tmp:
         repo = Path(tmp)
         importer.run(repo, "2026-10-08", site())
         importer.run(repo, "2026-10-09", site())
-        before = (repo / importer.INFO_FILE).read_bytes()
-        assert importer.run(repo, "2026-10-10", site()) == 2
-        assert (repo / importer.INFO_FILE).read_bytes() == before and read(repo)["yayin_tarihi"] == "2026-10-09"
+        fresh = site(pages={url("kavram-3"): page("Kavram 3")},
+                     feeds={"dini-kavramlar": rss("kavram-1", "kavram-2", "kavram-3")})
+        assert importer.run(repo, "2026-10-10", fresh) == 0
+        assert pair(repo) == [url("kavram-3"), url("hikaye-1")]
+
+
+def test_repeat_revalidates_and_drops_articles_that_no_longer_qualify():
+    with tempfile.TemporaryDirectory() as tmp:
+        repo = Path(tmp)
+        importer.run(repo, "2026-10-08", site())
+        importer.run(repo, "2026-10-09", site())
+        importer.run(repo, "2026-10-10", site(pages={url("kavram-3"): page("Kavram 3")},
+                                              feeds={"dini-kavramlar": rss("kavram-3")}))
+        # kavram-1 artık ajans kaynaklı: atlanır ve sıradan çıkar.
+        changed = site(pages={url("kavram-1"): page("Kavram 1", source_name="AA"),
+                              url("kavram-3"): page("Kavram 3")})
+        assert importer.run(repo, "2026-10-11", changed) == 0
+        assert pair(repo)[0] == url("kavram-2")
+        state = json.loads((repo / importer.STATE_FILE).read_text(encoding="utf-8"))
+        assert url("kavram-1") not in state["sira"]["bilgi"]
+
+
+def test_repeat_queue_is_derived_from_old_state_file():
+    with tempfile.TemporaryDirectory() as tmp:
+        repo = Path(tmp)
+        (repo / "Tools").mkdir()
+        old = {"urls": [url("kavram-1"), url("hikaye-1"), url("kavram-2"), url("hikaye-2")], "texts": [], "rejected": []}
+        (repo / importer.STATE_FILE).write_text(json.dumps(old), encoding="utf-8")
+        assert importer.run(repo, "2026-10-10", site()) == 0
+        assert pair(repo) == [url("kavram-1"), url("hikaye-1")]
+
+
+def test_unreachable_source_keeps_previous_pair():
+    with tempfile.TemporaryDirectory() as tmp:
+        repo = Path(tmp)
+        importer.run(repo, "2026-10-08", site())
+        importer.run(repo, "2026-10-09", site())
+        before = (repo / importer.INFO_FILE).read_bytes(), (repo / importer.STATE_FILE).read_bytes()
+        down = Site({}, {})
+        assert importer.run(repo, "2026-10-10", down) == 2
+        assert ((repo / importer.INFO_FILE).read_bytes(), (repo / importer.STATE_FILE).read_bytes()) == before
 
 
 def test_rejects_agency_foreign_publisher_and_short_text():
