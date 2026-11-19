@@ -2,18 +2,24 @@
  "dislanan_fotograf": [],
  "kullanim": {
   "ayet": {
-   "103:1-3": "2026-11-18"
+   "103:1-3": "2026-11-18",
+   "89:1-2": "2026-11-19"
   },
   "dua": {
+   "14:40": "2026-11-19",
    "7:23": "2026-11-18"
   },
   "fotograf": {
+   "File:Backlit Margarita Island Sunset in Las Guevaras, Venezuela CaptureNX2.jpg": "2026-11-19",
+   "File:Bayanzag 02.jpg": "2026-11-19",
    "File:Bayanzag 07.jpg": "2026-11-18",
    "File:Juan Griego Sunset.jpg": "2026-11-18",
+   "File:Milky Way Galaxy of Joshua Tree (18202055872).jpg": "2026-11-19",
    "File:Wetterspitzen (Stubaier Alpen).jpg": "2026-11-18"
   },
   "hadis": {
-   "3074": "2026-11-18"
+   "3074": "2026-11-18",
+   "5435": "2026-11-19"
   }
  },
  "son": {
@@ -21,52 +27,52 @@
    {
     "dosya": "Ayet/00-gunun-ayeti.jpg",
     "fotograf": {
-     "baslik": "File:Wetterspitzen (Stubaier Alpen).jpg",
-     "indirilen": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Wetterspitzen_%28Stubaier_Alpen%29.jpg/3840px-Wetterspitzen_%28Stubaier_Alpen%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "baslik": "File:Backlit Margarita Island Sunset in Las Guevaras, Venezuela CaptureNX2.jpg",
+     "indirilen": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Backlit_Margarita_Island_Sunset_in_Las_Guevaras%2C_Venezuela_CaptureNX2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
      "lisans": "cc0",
      "lisans_adi": "CC0",
-     "ozgun_sha1": "d04ca4e2a844a70f318429c435da0c10d70c6231",
-     "sayfa": "https://commons.wikimedia.org/wiki/File:Wetterspitzen_(Stubaier_Alpen).jpg",
-     "yazar": "Jörg Braukmann"
+     "ozgun_sha1": "b7ccc23cd71a1481976a543ccec9a3e2008c2eb5",
+     "sayfa": "https://commons.wikimedia.org/wiki/File:Backlit_Margarita_Island_Sunset_in_Las_Guevaras,_Venezuela_CaptureNX2.jpg",
+     "yazar": "Wilfredor"
     },
-    "kayit": "103:1-3",
+    "kayit": "89:1-2",
     "kaynak": "Arapça: Tanzil.net, Uthmani 1.1 (CC BY 3.0) · Meal: Rowwad Tercüme Merkezi, Türkçe 1.0.4 · QuranEnc.com",
-    "kunye": "Asr Sûresi, 103:1-3",
+    "kunye": "Fecr Sûresi, 89:1-2",
     "tur": "ayet"
    },
    {
     "dosya": "Hadis/00-gunun-hadisi.jpg",
     "fotograf": {
-     "baslik": "File:Juan Griego Sunset.jpg",
-     "indirilen": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Juan_Griego_Sunset.jpg/3840px-Juan_Griego_Sunset.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "lisans": "cc0",
-     "lisans_adi": "CC0",
-     "ozgun_sha1": "31e75119e15518b56ee9658bb629a4e4d0c3e174",
-     "sayfa": "https://commons.wikimedia.org/wiki/File:Juan_Griego_Sunset.jpg",
-     "yazar": "Wilfredor"
+     "baslik": "File:Milky Way Galaxy of Joshua Tree (18202055872).jpg",
+     "indirilen": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Milky_Way_Galaxy_of_Joshua_Tree_%2818202055872%29.jpg/3840px-Milky_Way_Galaxy_of_Joshua_Tree_%2818202055872%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "lisans": "pd",
+     "lisans_adi": "Public domain",
+     "ozgun_sha1": "233764fd2c12227bd58aca853d747f1b6ff38215",
+     "sayfa": "https://commons.wikimedia.org/wiki/File:Milky_Way_Galaxy_of_Joshua_Tree_(18202055872).jpg",
+     "yazar": "Joshua Tree National Park"
     },
-    "kayit": "hadeethenc:3074",
-    "kaynak": "HadeethEnc.com · Nebevi Hadisler Ansiklopedisi Tercümesi v1.71.0 · hadeethenc.com/tr/browse/hadith/3074",
-    "kunye": "Bu hadisin her iki rivayeti de sahihtir · Her iki rivayeti de Muttefekun Aleyh'dir",
+    "kayit": "hadeethenc:5435",
+    "kaynak": "HadeethEnc.com · Nebevi Hadisler Ansiklopedisi Tercümesi v1.71.0 · hadeethenc.com/tr/browse/hadith/5435",
+    "kunye": "Sahih Hadis · Müslim rivayet etmiştir",
     "tur": "hadis"
    },
    {
     "dosya": "Dua/00-gunun-duasi.jpg",
     "fotograf": {
-     "baslik": "File:Bayanzag 07.jpg",
-     "indirilen": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Bayanzag_07.jpg/3840px-Bayanzag_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "baslik": "File:Bayanzag 02.jpg",
+     "indirilen": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Bayanzag_02.jpg/3840px-Bayanzag_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
      "lisans": "cc0",
      "lisans_adi": "CC0",
-     "ozgun_sha1": "fa150fd1e1e451fbc30ee719e0010a70382f8e09",
-     "sayfa": "https://commons.wikimedia.org/wiki/File:Bayanzag_07.jpg",
+     "ozgun_sha1": "615d65b7be3fc0f337eba31c823dbf8170c636a0",
+     "sayfa": "https://commons.wikimedia.org/wiki/File:Bayanzag_02.jpg",
      "yazar": "Bernard Gagnon"
     },
-    "kayit": "7:23",
+    "kayit": "14:40",
     "kaynak": "Arapça: Tanzil.net, Uthmani 1.1 (CC BY 3.0) · Meal: Rowwad Tercüme Merkezi, Türkçe 1.0.4 · QuranEnc.com",
-    "kunye": "A‘râf Sûresi, 7:23",
+    "kunye": "İbrâhîm Sûresi, 14:40",
     "tur": "dua"
    }
   ],
-  "tarih": "2026-11-18"
+  "tarih": "2026-11-19"
  }
 }
