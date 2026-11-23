@@ -82,41 +82,6 @@
    "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
    "size": 0,
    "type": "file"
-  },
-  {
-   "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/OzluSozler/01-sukur.jpg",
-   "name": "01-sukur.jpg",
-   "sha": "25dc578eee41d5245eeb72a10fcbb8782ea924a0",
-   "size": 49292,
-   "type": "file"
-  },
-  {
-   "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/OzluSozler/02-sabir.jpg",
-   "name": "02-sabir.jpg",
-   "sha": "a196b9e31675434fb7151310f85c1a44bbe3dfbe",
-   "size": 52066,
-   "type": "file"
-  },
-  {
-   "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/OzluSozler/03-tevazu.jpg",
-   "name": "03-tevazu.jpg",
-   "sha": "01d37c5130da3b17f962ecfa4e18d227cfc1a731",
-   "size": 50155,
-   "type": "file"
-  },
-  {
-   "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/OzluSozler/04-vakit.jpg",
-   "name": "04-vakit.jpg",
-   "sha": "035ba5af272e60b6b8fd9f898933c4f1e90cfa2f",
-   "size": 52577,
-   "type": "file"
-  },
-  {
-   "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/OzluSozler/05-iyilik.jpg",
-   "name": "05-iyilik.jpg",
-   "sha": "6990f777bfc165bed1fc4d76bd0b9945edfacc82",
-   "size": 50516,
-   "type": "file"
   }
  ],
  "RecitID": [
