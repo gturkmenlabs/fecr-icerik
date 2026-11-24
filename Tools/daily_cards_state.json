@@ -3,6 +3,7 @@
  "kullanim": {
   "ayet": {
    "103:1-3": "2026-11-18",
+   "112:1-4": "2026-11-24",
    "14:7": "2026-11-20",
    "25:63": "2026-11-22",
    "39:10": "2026-11-23",
@@ -13,6 +14,7 @@
    "14:40": "2026-11-19",
    "28:24": "2026-11-22",
    "3:53": "2026-11-21",
+   "60:5": "2026-11-24",
    "7:23": "2026-11-18",
    "h:10947": "2026-11-20",
    "h:5329": "2026-11-23"
@@ -23,11 +25,13 @@
    "File:Bayanzag 02.jpg": "2026-11-19",
    "File:Bayanzag 07.jpg": "2026-11-18",
    "File:Bayanzag 10.jpg": "2026-11-22",
+   "File:Blankenburg, Luisenburg (Mai 2023).jpg": "2026-11-24",
    "File:Desenka meadow 2016 G3.jpg": "2026-11-20",
    "File:Desenka meadow 2019 G2.jpg": "2026-11-22",
    "File:El Guamache Bay, Margarita island.jpg": "2026-11-22",
    "File:Glattblatt-Aster (September 2025).jpg": "2026-11-20",
    "File:Juan Griego Sunset.jpg": "2026-11-18",
+   "File:Khongoryn Els 08.jpg": "2026-11-24",
    "File:Khongoryn Els 10.jpg": "2026-11-21",
    "File:Milky Way Galaxy of Joshua Tree (18202055872).jpg": "2026-11-19",
    "File:Milky Way IR Spitzer.jpg": "2026-11-21",
@@ -35,10 +39,12 @@
    "File:Muemliswil Wechten 01.jpg": "2026-11-23",
    "File:NASA’s Webb Reveals Cosmic Cliffs, Glittering Landscape of Star Birth.jpg": "2026-11-23",
    "File:Quill-shaped cirrus cloud.jpg": "2026-11-20",
+   "File:Wadi rum desert.jpg": "2026-11-24",
    "File:Wetterspitzen (Stubaier Alpen).jpg": "2026-11-18"
   },
   "hadis": {
    "3074": "2026-11-18",
+   "5344": "2026-11-24",
    "5435": "2026-11-19",
    "5796": "2026-11-21",
    "5799": "2026-11-22",
@@ -51,52 +57,52 @@
    {
     "dosya": "Ayet/00-gunun-ayeti.jpg",
     "fotograf": {
-     "baslik": "File:NASA’s Webb Reveals Cosmic Cliffs, Glittering Landscape of Star Birth.jpg",
-     "indirilen": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/NASA%E2%80%99s_Webb_Reveals_Cosmic_Cliffs%2C_Glittering_Landscape_of_Star_Birth.jpg/3840px-NASA%E2%80%99s_Webb_Reveals_Cosmic_Cliffs%2C_Glittering_Landscape_of_Star_Birth.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "lisans": "pd",
-     "lisans_adi": "Public domain",
-     "ozgun_sha1": "c7b5a67f924d1f78df3255bc5e525e5bd19d71ee",
-     "sayfa": "https://commons.wikimedia.org/wiki/File:NASA%E2%80%99s_Webb_Reveals_Cosmic_Cliffs,_Glittering_Landscape_of_Star_Birth.jpg",
-     "yazar": "Image: National Aeronautics and Space Administration (a U.S. federal government agency; https://www.nasa.gov/ ) European space agency ( https://www.esa.int/ ), Canadian Space Agency ( https://www.asc-csa.gc.ca/eng/ ) Space Telescope Science Institute ( https://www.stsci.edu/ , science operations center for the Hubble Space Telescope )"
+     "baslik": "File:Blankenburg, Luisenburg (Mai 2023).jpg",
+     "indirilen": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Blankenburg%2C_Luisenburg_%28Mai_2023%29.jpg/3840px-Blankenburg%2C_Luisenburg_%28Mai_2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "lisans": "cc0",
+     "lisans_adi": "CC0",
+     "ozgun_sha1": "f1a2481458b5d3e2f0ce69669eff8effac4a0f7d",
+     "sayfa": "https://commons.wikimedia.org/wiki/File:Blankenburg,_Luisenburg_(Mai_2023).jpg",
+     "yazar": "Romzig"
     },
-    "kayit": "39:10",
+    "kayit": "112:1-4",
     "kaynak": "Arapça: Tanzil.net, Uthmani 1.1 (CC BY 3.0) · Meal: Rowwad Tercüme Merkezi, Türkçe 1.0.4 · QuranEnc.com",
-    "kunye": "Zümer Sûresi, 39:10",
+    "kunye": "İhlâs Sûresi, 112:1-4",
     "tur": "ayet"
    },
    {
     "dosya": "Hadis/00-gunun-hadisi.jpg",
     "fotograf": {
-     "baslik": "File:Muemliswil Wechten 01.jpg",
-     "indirilen": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Muemliswil_Wechten_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "baslik": "File:Wadi rum desert.jpg",
+     "indirilen": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Wadi_rum_desert.jpg/3840px-Wadi_rum_desert.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
      "lisans": "cc0",
      "lisans_adi": "CC0",
-     "ozgun_sha1": "872a2e308097f1163c0641335a2823ea4ff6f459",
-     "sayfa": "https://commons.wikimedia.org/wiki/File:Muemliswil_Wechten_01.jpg",
-     "yazar": "Gestumblindi"
+     "ozgun_sha1": "a5fb5b7e2cd7d724350a7c5b89c8c9890ef65d57",
+     "sayfa": "https://commons.wikimedia.org/wiki/File:Wadi_rum_desert.jpg",
+     "yazar": "Peter Chisholm"
     },
-    "kayit": "hadeethenc:66272",
-    "kaynak": "HadeethEnc.com · Nebevi Hadisler Ansiklopedisi Tercümesi v1.71.0 · hadeethenc.com/tr/browse/hadith/66272",
-    "kunye": "Sahih Hadis · Müslim rivayet etmiştir",
+    "kayit": "hadeethenc:5344",
+    "kaynak": "HadeethEnc.com · Nebevi Hadisler Ansiklopedisi Tercümesi v1.71.0 · hadeethenc.com/tr/browse/hadith/5344",
+    "kunye": "Hasen Hadis · İbn Mâce rivayet etmiştir - Tirmizî rivayet etmiştir - Ahmed rivayet etmiştir - Dârimî rivayet etmiştir",
     "tur": "hadis"
    },
    {
     "dosya": "Dua/00-gunun-duasi.jpg",
     "fotograf": {
-     "baslik": "File:Moraine Lake 17092005.jpg",
-     "indirilen": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Moraine_Lake_17092005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "lisans": "pd",
-     "lisans_adi": "Public domain",
-     "ozgun_sha1": "49ae7406505d7a28b8fe0b4bef9414c104064874",
-     "sayfa": "https://commons.wikimedia.org/wiki/File:Moraine_Lake_17092005.jpg",
-     "yazar": "Gorgo"
+     "baslik": "File:Khongoryn Els 08.jpg",
+     "indirilen": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Khongoryn_Els_08.jpg/3840px-Khongoryn_Els_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "lisans": "cc0",
+     "lisans_adi": "CC0",
+     "ozgun_sha1": "dea97d4f8577e2f5d6b25e23e6117ccb0101ecd6",
+     "sayfa": "https://commons.wikimedia.org/wiki/File:Khongoryn_Els_08.jpg",
+     "yazar": "Bernard Gagnon"
     },
-    "kayit": "hadeethenc:5329",
-    "kaynak": "HadeethEnc.com · Nebevi Hadisler Ansiklopedisi Tercümesi v1.71.0 · hadeethenc.com/tr/browse/hadith/5329",
-    "kunye": "Sahih Hadis · Tirmizî rivayet etmiştir",
+    "kayit": "60:5",
+    "kaynak": "Arapça: Tanzil.net, Uthmani 1.1 (CC BY 3.0) · Meal: Rowwad Tercüme Merkezi, Türkçe 1.0.4 · QuranEnc.com",
+    "kunye": "Mümtehine Sûresi, 60:5",
     "tur": "dua"
    }
   ],
-  "tarih": "2026-11-23"
+  "tarih": "2026-11-24"
  }
 }
