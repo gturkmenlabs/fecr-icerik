@@ -57,7 +57,9 @@
     "https://www.diyanethaber.com.tr/10-muharreme-gunler-kaldi",
     "https://www.diyanethaber.com.tr/hac-kimlere-farzdir",
     "https://www.diyanethaber.com.tr/ramazanda-tutulamayan-oruclar-sevval-orucu-niyetiyle-tutulabilir-mi",
-    "https://www.diyanethaber.com.tr/sevval-orucu-nedir-sevval-orucunun-hukmu"
+    "https://www.diyanethaber.com.tr/sevval-orucu-nedir-sevval-orucunun-hukmu",
+    "https://www.diyanethaber.com.tr/nakib-ne-demektir",
+    "https://www.diyanethaber.com.tr/medinelilerden-islamiyeti-ilk-kabul-eden-sahabi-kimdir"
   ],
   "texts": [
     "1dbde644f36d3bd07b8fbb59de2a6323890aacd47b2a4998411628c98ba37261",
@@ -117,7 +119,9 @@
     "f6380832991f9799586f1403f8f1076008e8c80ca61543a131d15e623dc81805",
     "d6404c67ac56c992b98c854650af794248becb700ed15eb1146729f2f94277d2",
     "3516a3b14a58ab69962d7678121ffa744fcc3c29ac373b098cd782324d0a15f8",
-    "a32642678e25b819f0970cd28def51c6831e97cc996ea2c3df3ac1415d2ebcd2"
+    "a32642678e25b819f0970cd28def51c6831e97cc996ea2c3df3ac1415d2ebcd2",
+    "d887f5e584bfa16d7bb19632ff085a2b9361ae4a84505d12e9abbfa37f7bbf77",
+    "d7712beea2206b5e118f4e7bf9912c359abe46d5fb41809829f908e6280f1f0f"
   ],
   "rejected": [
     "https://www.diyanethaber.com.tr/giyinme-adabi-nasil-olmali",
@@ -178,7 +182,8 @@
       "https://www.diyanethaber.com.tr/10-muharreme-gunler-kaldi",
       "https://www.diyanethaber.com.tr/hac-kimlere-farzdir",
       "https://www.diyanethaber.com.tr/ramazanda-tutulamayan-oruclar-sevval-orucu-niyetiyle-tutulabilir-mi",
-      "https://www.diyanethaber.com.tr/sevval-orucu-nedir-sevval-orucunun-hukmu"
+      "https://www.diyanethaber.com.tr/sevval-orucu-nedir-sevval-orucunun-hukmu",
+      "https://www.diyanethaber.com.tr/nakib-ne-demektir"
     ],
     "hikaye": [
       "https://www.diyanethaber.com.tr/hz-ebuberin-duasi",
@@ -206,7 +211,8 @@
       "https://www.diyanethaber.com.tr/kissadan-hisse-zamanin-kiymeti",
       "https://www.diyanethaber.com.tr/ihlas-ve-samimiyet-ornegi-magaraya-siginan-uc-kisi-kissasi",
       "https://www.diyanethaber.com.tr/kissadan-hisse-ebu-hanife",
-      "https://www.diyanethaber.com.tr/hz-peygamber-sas-doneminde-egitim-ve-ogretim"
+      "https://www.diyanethaber.com.tr/hz-peygamber-sas-doneminde-egitim-ve-ogretim",
+      "https://www.diyanethaber.com.tr/medinelilerden-islamiyeti-ilk-kabul-eden-sahabi-kimdir"
     ]
   }
 }
