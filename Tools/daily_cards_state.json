@@ -7,6 +7,7 @@
    "14:7": "2026-11-20",
    "25:63": "2026-11-22",
    "39:10": "2026-11-23",
+   "50:16": "2026-11-25",
    "55:13": "2026-11-21",
    "89:1-2": "2026-11-19"
   },
@@ -14,6 +15,7 @@
    "14:40": "2026-11-19",
    "28:24": "2026-11-22",
    "3:53": "2026-11-21",
+   "3:8": "2026-11-25",
    "60:5": "2026-11-24",
    "7:23": "2026-11-18",
    "h:10947": "2026-11-20",
@@ -26,6 +28,7 @@
    "File:Bayanzag 07.jpg": "2026-11-18",
    "File:Bayanzag 10.jpg": "2026-11-22",
    "File:Blankenburg, Luisenburg (Mai 2023).jpg": "2026-11-24",
+   "File:Camel at Khongoryn Els 01.jpg": "2026-11-25",
    "File:Desenka meadow 2016 G3.jpg": "2026-11-20",
    "File:Desenka meadow 2019 G2.jpg": "2026-11-22",
    "File:El Guamache Bay, Margarita island.jpg": "2026-11-22",
@@ -39,6 +42,8 @@
    "File:Muemliswil Wechten 01.jpg": "2026-11-23",
    "File:NASA’s Webb Reveals Cosmic Cliffs, Glittering Landscape of Star Birth.jpg": "2026-11-23",
    "File:Quill-shaped cirrus cloud.jpg": "2026-11-20",
+   "File:Sunset backlight of dates.jpg": "2026-11-25",
+   "File:Sunset with tree 3.jpg": "2026-11-25",
    "File:Wadi rum desert.jpg": "2026-11-24",
    "File:Wetterspitzen (Stubaier Alpen).jpg": "2026-11-18"
   },
@@ -46,6 +51,7 @@
    "3074": "2026-11-18",
    "5344": "2026-11-24",
    "5435": "2026-11-19",
+   "5512": "2026-11-25",
    "5796": "2026-11-21",
    "5799": "2026-11-22",
    "5803": "2026-11-20",
@@ -57,52 +63,52 @@
    {
     "dosya": "Ayet/00-gunun-ayeti.jpg",
     "fotograf": {
-     "baslik": "File:Blankenburg, Luisenburg (Mai 2023).jpg",
-     "indirilen": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Blankenburg%2C_Luisenburg_%28Mai_2023%29.jpg/3840px-Blankenburg%2C_Luisenburg_%28Mai_2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "lisans": "cc0",
-     "lisans_adi": "CC0",
-     "ozgun_sha1": "f1a2481458b5d3e2f0ce69669eff8effac4a0f7d",
-     "sayfa": "https://commons.wikimedia.org/wiki/File:Blankenburg,_Luisenburg_(Mai_2023).jpg",
-     "yazar": "Romzig"
+     "baslik": "File:Sunset with tree 3.jpg",
+     "indirilen": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Sunset_with_tree_3.jpg/3840px-Sunset_with_tree_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "lisans": "pd",
+     "lisans_adi": "Public domain",
+     "ozgun_sha1": "bc46878a36c46dee55889b2500318acfa1bc05b1",
+     "sayfa": "https://commons.wikimedia.org/wiki/File:Sunset_with_tree_3.jpg",
+     "yazar": "W.carter"
     },
-    "kayit": "112:1-4",
+    "kayit": "50:16",
     "kaynak": "Arapça: Tanzil.net, Uthmani 1.1 (CC BY 3.0) · Meal: Rowwad Tercüme Merkezi, Türkçe 1.0.4 · QuranEnc.com",
-    "kunye": "İhlâs Sûresi, 112:1-4",
+    "kunye": "Kâf Sûresi, 50:16",
     "tur": "ayet"
    },
    {
     "dosya": "Hadis/00-gunun-hadisi.jpg",
     "fotograf": {
-     "baslik": "File:Wadi rum desert.jpg",
-     "indirilen": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Wadi_rum_desert.jpg/3840px-Wadi_rum_desert.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "baslik": "File:Sunset backlight of dates.jpg",
+     "indirilen": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Sunset_backlight_of_dates.jpg/3840px-Sunset_backlight_of_dates.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
      "lisans": "cc0",
      "lisans_adi": "CC0",
-     "ozgun_sha1": "a5fb5b7e2cd7d724350a7c5b89c8c9890ef65d57",
-     "sayfa": "https://commons.wikimedia.org/wiki/File:Wadi_rum_desert.jpg",
-     "yazar": "Peter Chisholm"
+     "ozgun_sha1": "9db04eaba1b8f100b36523d5de44e3d2ecdff118",
+     "sayfa": "https://commons.wikimedia.org/wiki/File:Sunset_backlight_of_dates.jpg",
+     "yazar": "Wilfredor"
     },
-    "kayit": "hadeethenc:5344",
-    "kaynak": "HadeethEnc.com · Nebevi Hadisler Ansiklopedisi Tercümesi v1.71.0 · hadeethenc.com/tr/browse/hadith/5344",
-    "kunye": "Hasen Hadis · İbn Mâce rivayet etmiştir - Tirmizî rivayet etmiştir - Ahmed rivayet etmiştir - Dârimî rivayet etmiştir",
+    "kayit": "hadeethenc:5512",
+    "kaynak": "HadeethEnc.com · Nebevi Hadisler Ansiklopedisi Tercümesi v1.71.0 · hadeethenc.com/tr/browse/hadith/5512",
+    "kunye": "Sahih Hadis · Müslim rivayet etmiştir",
     "tur": "hadis"
    },
    {
     "dosya": "Dua/00-gunun-duasi.jpg",
     "fotograf": {
-     "baslik": "File:Khongoryn Els 08.jpg",
-     "indirilen": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Khongoryn_Els_08.jpg/3840px-Khongoryn_Els_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "baslik": "File:Camel at Khongoryn Els 01.jpg",
+     "indirilen": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Camel_at_Khongoryn_Els_01.jpg/3840px-Camel_at_Khongoryn_Els_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
      "lisans": "cc0",
      "lisans_adi": "CC0",
-     "ozgun_sha1": "dea97d4f8577e2f5d6b25e23e6117ccb0101ecd6",
-     "sayfa": "https://commons.wikimedia.org/wiki/File:Khongoryn_Els_08.jpg",
+     "ozgun_sha1": "4e0f44f68f679e32c8732dc30c466660cc074a61",
+     "sayfa": "https://commons.wikimedia.org/wiki/File:Camel_at_Khongoryn_Els_01.jpg",
      "yazar": "Bernard Gagnon"
     },
-    "kayit": "60:5",
+    "kayit": "3:8",
     "kaynak": "Arapça: Tanzil.net, Uthmani 1.1 (CC BY 3.0) · Meal: Rowwad Tercüme Merkezi, Türkçe 1.0.4 · QuranEnc.com",
-    "kunye": "Mümtehine Sûresi, 60:5",
+    "kunye": "Âl-i İmrân Sûresi, 3:8",
     "tur": "dua"
    }
   ],
-  "tarih": "2026-11-24"
+  "tarih": "2026-11-25"
  }
 }
