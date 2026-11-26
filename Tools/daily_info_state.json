@@ -60,7 +60,8 @@
     "https://www.diyanethaber.com.tr/sevval-orucu-nedir-sevval-orucunun-hukmu",
     "https://www.diyanethaber.com.tr/nakib-ne-demektir",
     "https://www.diyanethaber.com.tr/medinelilerden-islamiyeti-ilk-kabul-eden-sahabi-kimdir",
-    "https://www.diyanethaber.com.tr/bayram-namazi-nasil-kilinir-diyanet-adil-elzerey"
+    "https://www.diyanethaber.com.tr/bayram-namazi-nasil-kilinir-diyanet-adil-elzerey",
+    "https://www.diyanethaber.com.tr/arefe-nedir-ramazan-bayrami-arefesi-ne-zaman"
   ],
   "texts": [
     "1dbde644f36d3bd07b8fbb59de2a6323890aacd47b2a4998411628c98ba37261",
@@ -123,7 +124,8 @@
     "a32642678e25b819f0970cd28def51c6831e97cc996ea2c3df3ac1415d2ebcd2",
     "d887f5e584bfa16d7bb19632ff085a2b9361ae4a84505d12e9abbfa37f7bbf77",
     "d7712beea2206b5e118f4e7bf9912c359abe46d5fb41809829f908e6280f1f0f",
-    "9dc58068b22d1ad173dbeafec76d708c3ebf27234fc02d9273ceb44d970887be"
+    "9dc58068b22d1ad173dbeafec76d708c3ebf27234fc02d9273ceb44d970887be",
+    "1b315e562eb4b5cb2bed31e86a9c839166d7f116e7528b437dc0173c0d22bea4"
   ],
   "rejected": [
     "https://www.diyanethaber.com.tr/giyinme-adabi-nasil-olmali",
@@ -186,10 +188,10 @@
       "https://www.diyanethaber.com.tr/ramazanda-tutulamayan-oruclar-sevval-orucu-niyetiyle-tutulabilir-mi",
       "https://www.diyanethaber.com.tr/sevval-orucu-nedir-sevval-orucunun-hukmu",
       "https://www.diyanethaber.com.tr/nakib-ne-demektir",
-      "https://www.diyanethaber.com.tr/bayram-namazi-nasil-kilinir-diyanet-adil-elzerey"
+      "https://www.diyanethaber.com.tr/bayram-namazi-nasil-kilinir-diyanet-adil-elzerey",
+      "https://www.diyanethaber.com.tr/arefe-nedir-ramazan-bayrami-arefesi-ne-zaman"
     ],
     "hikaye": [
-      "https://www.diyanethaber.com.tr/hanimlarin-hatibi-olarak-bilinen-sahabi-kimdir",
       "https://www.diyanethaber.com.tr/kadin-muhacirlerden-en-son-vefat-eden-sahabi-kimdir",
       "https://www.diyanethaber.com.tr/hazreti-ali-ranin-annesi-fatima-binti-esed",
       "https://www.diyanethaber.com.tr/peygamberimizin-sas-kucuk-sirdasi",
@@ -215,7 +217,8 @@
       "https://www.diyanethaber.com.tr/kissadan-hisse-ebu-hanife",
       "https://www.diyanethaber.com.tr/hz-peygamber-sas-doneminde-egitim-ve-ogretim",
       "https://www.diyanethaber.com.tr/medinelilerden-islamiyeti-ilk-kabul-eden-sahabi-kimdir",
-      "https://www.diyanethaber.com.tr/hz-ebuberin-duasi"
+      "https://www.diyanethaber.com.tr/hz-ebuberin-duasi",
+      "https://www.diyanethaber.com.tr/hanimlarin-hatibi-olarak-bilinen-sahabi-kimdir"
     ]
   }
 }
