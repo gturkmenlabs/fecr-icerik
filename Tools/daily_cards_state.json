@@ -8,12 +8,14 @@
    "25:63": "2026-11-22",
    "35:15": "2026-11-26",
    "39:10": "2026-11-23",
+   "49:10": "2026-11-27",
    "50:16": "2026-11-25",
    "55:13": "2026-11-21",
    "89:1-2": "2026-11-19"
   },
   "dua": {
    "14:40": "2026-11-19",
+   "23:29": "2026-11-27",
    "28:24": "2026-11-22",
    "3:16": "2026-11-26",
    "3:53": "2026-11-21",
@@ -33,6 +35,7 @@
    "File:Camel at Khongoryn Els 01.jpg": "2026-11-25",
    "File:Desenka meadow 2016 G3.jpg": "2026-11-20",
    "File:Desenka meadow 2019 G2.jpg": "2026-11-22",
+   "File:Desna river Vinn meadow 2019 G01.jpg": "2026-11-27",
    "File:El Guamache Bay, Margarita island.jpg": "2026-11-22",
    "File:Glattblatt-Aster (September 2025).jpg": "2026-11-20",
    "File:Honigbiene (Oktober 2023).jpg": "2026-11-26",
@@ -40,6 +43,7 @@
    "File:Khongoryn Els 08.jpg": "2026-11-24",
    "File:Khongoryn Els 10.jpg": "2026-11-21",
    "File:Kyzylkum Desert in Uzbekistan.jpg": "2026-11-26",
+   "File:Lever du 16 Juillet 2025.jpg": "2026-11-27",
    "File:Milky Way Galaxy of Joshua Tree (18202055872).jpg": "2026-11-19",
    "File:Milky Way IR Spitzer.jpg": "2026-11-21",
    "File:Moraine Lake 17092005.jpg": "2026-11-23",
@@ -48,6 +52,7 @@
    "File:Quill-shaped cirrus cloud.jpg": "2026-11-20",
    "File:Sunset backlight of dates.jpg": "2026-11-25",
    "File:Sunset with tree 3.jpg": "2026-11-25",
+   "File:Un nuage au-dessus de Crévoux (Hautes-Alpes) proche cascades (mai 2021).jpg": "2026-11-27",
    "File:Utah Dunes Landscape - West Desert District.jpg": "2026-11-26",
    "File:Wadi rum desert.jpg": "2026-11-24",
    "File:Wetterspitzen (Stubaier Alpen).jpg": "2026-11-18"
@@ -57,6 +62,7 @@
    "5344": "2026-11-24",
    "5435": "2026-11-19",
    "5449": "2026-11-26",
+   "5510": "2026-11-27",
    "5512": "2026-11-25",
    "5796": "2026-11-21",
    "5799": "2026-11-22",
@@ -69,52 +75,52 @@
    {
     "dosya": "Ayet/00-gunun-ayeti.jpg",
     "fotograf": {
-     "baslik": "File:Honigbiene (Oktober 2023).jpg",
-     "indirilen": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Honigbiene_%28Oktober_2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "baslik": "File:Lever du 16 Juillet 2025.jpg",
+     "indirilen": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Lever_du_16_Juillet_2025.jpg/3840px-Lever_du_16_Juillet_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
      "lisans": "cc0",
      "lisans_adi": "CC0",
-     "ozgun_sha1": "4b8b0c5185f2eebe2dd4b6d0d42a4ba5b48a3437",
-     "sayfa": "https://commons.wikimedia.org/wiki/File:Honigbiene_(Oktober_2023).jpg",
-     "yazar": "Romzig"
+     "ozgun_sha1": "3b54bad72729c46871fd6b06192e48ee2f434f68",
+     "sayfa": "https://commons.wikimedia.org/wiki/File:Lever_du_16_Juillet_2025.jpg",
+     "yazar": "Smailtn Camera location 36° 46′ 21.62″ N, 10° 17′ 31.74″ E View this and other nearby images on: OpenStreetMap 36.772672; 10.292149"
     },
-    "kayit": "35:15",
+    "kayit": "49:10",
     "kaynak": "Arapça: Tanzil.net, Uthmani 1.1 (CC BY 3.0) · Meal: Rowwad Tercüme Merkezi, Türkçe 1.0.4 · QuranEnc.com",
-    "kunye": "Fâtır Sûresi, 35:15",
+    "kunye": "Hucurât Sûresi, 49:10",
     "tur": "ayet"
    },
    {
     "dosya": "Hadis/00-gunun-hadisi.jpg",
     "fotograf": {
-     "baslik": "File:Utah Dunes Landscape - West Desert District.jpg",
-     "indirilen": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Utah_Dunes_Landscape_-_West_Desert_District.jpg/3840px-Utah_Dunes_Landscape_-_West_Desert_District.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "baslik": "File:Desna river Vinn meadow 2019 G01.jpg",
+     "indirilen": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Desna_river_Vinn_meadow_2019_G01.jpg/3840px-Desna_river_Vinn_meadow_2019_G01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
      "lisans": "pd",
      "lisans_adi": "Public domain",
-     "ozgun_sha1": "74ab899dd443dd19c0ffb31dd618be3debf05694",
-     "sayfa": "https://commons.wikimedia.org/wiki/File:Utah_Dunes_Landscape_-_West_Desert_District.jpg",
-     "yazar": "Bureau of Land Management - Utah/Bob Wick"
+     "ozgun_sha1": "38b1093df5b09df98cbd348dade318e9ff4c8afb",
+     "sayfa": "https://commons.wikimedia.org/wiki/File:Desna_river_Vinn_meadow_2019_G01.jpg",
+     "yazar": "George Chernilevsky"
     },
-    "kayit": "hadeethenc:5449",
-    "kaynak": "HadeethEnc.com · Nebevi Hadisler Ansiklopedisi Tercümesi v1.71.0 · hadeethenc.com/tr/browse/hadith/5449",
-    "kunye": "Sahih Hadis · Buhârî rivayet etmiştir",
+    "kayit": "hadeethenc:5510",
+    "kaynak": "HadeethEnc.com · Nebevi Hadisler Ansiklopedisi Tercümesi v1.71.0 · hadeethenc.com/tr/browse/hadith/5510",
+    "kunye": "Sahih li-gayrihî · İbn Ebî Şeybe rivayet etmiştir - Taberânî rivayet etmiştir - Ahmed rivayet etmiştir - Mâlik rivayet etmiştir",
     "tur": "hadis"
    },
    {
     "dosya": "Dua/00-gunun-duasi.jpg",
     "fotograf": {
-     "baslik": "File:Kyzylkum Desert in Uzbekistan.jpg",
-     "indirilen": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Kyzylkum_Desert_in_Uzbekistan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "baslik": "File:Un nuage au-dessus de Crévoux (Hautes-Alpes) proche cascades (mai 2021).jpg",
+     "indirilen": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Un_nuage_au-dessus_de_Cr%C3%A9voux_%28Hautes-Alpes%29_proche_cascades_%28mai_2021%29.jpg/3840px-Un_nuage_au-dessus_de_Cr%C3%A9voux_%28Hautes-Alpes%29_proche_cascades_%28mai_2021%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
      "lisans": "cc0",
      "lisans_adi": "CC0",
-     "ozgun_sha1": "4424c650a4fea75f63b3fbd04fb53fe02d46b573",
-     "sayfa": "https://commons.wikimedia.org/wiki/File:Kyzylkum_Desert_in_Uzbekistan.jpg",
-     "yazar": "Bgag"
+     "ozgun_sha1": "e9caefc16b9b92d7d7c1c8e2b6d9e66841a72ed3",
+     "sayfa": "https://commons.wikimedia.org/wiki/File:Un_nuage_au-dessus_de_Cr%C3%A9voux_(Hautes-Alpes)_proche_cascades_(mai_2021).jpg",
+     "yazar": "Benoît Prieur"
     },
-    "kayit": "3:16",
+    "kayit": "23:29",
     "kaynak": "Arapça: Tanzil.net, Uthmani 1.1 (CC BY 3.0) · Meal: Rowwad Tercüme Merkezi, Türkçe 1.0.4 · QuranEnc.com",
-    "kunye": "Âl-i İmrân Sûresi, 3:16",
+    "kunye": "Mü’minûn Sûresi, 23:29",
     "tur": "dua"
    }
   ],
-  "tarih": "2026-11-26"
+  "tarih": "2026-11-27"
  }
 }
