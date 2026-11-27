@@ -61,7 +61,8 @@
     "https://www.diyanethaber.com.tr/nakib-ne-demektir",
     "https://www.diyanethaber.com.tr/medinelilerden-islamiyeti-ilk-kabul-eden-sahabi-kimdir",
     "https://www.diyanethaber.com.tr/bayram-namazi-nasil-kilinir-diyanet-adil-elzerey",
-    "https://www.diyanethaber.com.tr/arefe-nedir-ramazan-bayrami-arefesi-ne-zaman"
+    "https://www.diyanethaber.com.tr/arefe-nedir-ramazan-bayrami-arefesi-ne-zaman",
+    "https://www.diyanethaber.com.tr/tesbih-namazi-nedir-nasil-kilinir"
   ],
   "texts": [
     "1dbde644f36d3bd07b8fbb59de2a6323890aacd47b2a4998411628c98ba37261",
@@ -125,7 +126,8 @@
     "d887f5e584bfa16d7bb19632ff085a2b9361ae4a84505d12e9abbfa37f7bbf77",
     "d7712beea2206b5e118f4e7bf9912c359abe46d5fb41809829f908e6280f1f0f",
     "9dc58068b22d1ad173dbeafec76d708c3ebf27234fc02d9273ceb44d970887be",
-    "1b315e562eb4b5cb2bed31e86a9c839166d7f116e7528b437dc0173c0d22bea4"
+    "1b315e562eb4b5cb2bed31e86a9c839166d7f116e7528b437dc0173c0d22bea4",
+    "344b38d0914b5cfc8b9366d39afb5ed19b18c344a5d66af6fbb39cb3f5ea45bf"
   ],
   "rejected": [
     "https://www.diyanethaber.com.tr/giyinme-adabi-nasil-olmali",
@@ -189,10 +191,10 @@
       "https://www.diyanethaber.com.tr/sevval-orucu-nedir-sevval-orucunun-hukmu",
       "https://www.diyanethaber.com.tr/nakib-ne-demektir",
       "https://www.diyanethaber.com.tr/bayram-namazi-nasil-kilinir-diyanet-adil-elzerey",
-      "https://www.diyanethaber.com.tr/arefe-nedir-ramazan-bayrami-arefesi-ne-zaman"
+      "https://www.diyanethaber.com.tr/arefe-nedir-ramazan-bayrami-arefesi-ne-zaman",
+      "https://www.diyanethaber.com.tr/tesbih-namazi-nedir-nasil-kilinir"
     ],
     "hikaye": [
-      "https://www.diyanethaber.com.tr/kadin-muhacirlerden-en-son-vefat-eden-sahabi-kimdir",
       "https://www.diyanethaber.com.tr/hazreti-ali-ranin-annesi-fatima-binti-esed",
       "https://www.diyanethaber.com.tr/peygamberimizin-sas-kucuk-sirdasi",
       "https://www.diyanethaber.com.tr/peygamber-efendimizin-sas-halid-bin-velide-ogrettigi-dua",
@@ -218,7 +220,8 @@
       "https://www.diyanethaber.com.tr/hz-peygamber-sas-doneminde-egitim-ve-ogretim",
       "https://www.diyanethaber.com.tr/medinelilerden-islamiyeti-ilk-kabul-eden-sahabi-kimdir",
       "https://www.diyanethaber.com.tr/hz-ebuberin-duasi",
-      "https://www.diyanethaber.com.tr/hanimlarin-hatibi-olarak-bilinen-sahabi-kimdir"
+      "https://www.diyanethaber.com.tr/hanimlarin-hatibi-olarak-bilinen-sahabi-kimdir",
+      "https://www.diyanethaber.com.tr/kadin-muhacirlerden-en-son-vefat-eden-sahabi-kimdir"
     ]
   }
 }
