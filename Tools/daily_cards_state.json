@@ -11,12 +11,14 @@
    "49:10": "2026-11-27",
    "50:16": "2026-11-25",
    "55:13": "2026-11-21",
+   "67:2": "2026-11-28",
    "89:1-2": "2026-11-19"
   },
   "dua": {
    "14:40": "2026-11-19",
    "23:29": "2026-11-27",
    "28:24": "2026-11-22",
+   "2:127": "2026-11-28",
    "3:16": "2026-11-26",
    "3:53": "2026-11-21",
    "3:8": "2026-11-25",
@@ -49,13 +51,16 @@
    "File:Moraine Lake 17092005.jpg": "2026-11-23",
    "File:Muemliswil Wechten 01.jpg": "2026-11-23",
    "File:NASA’s Webb Reveals Cosmic Cliffs, Glittering Landscape of Star Birth.jpg": "2026-11-23",
+   "File:Parc du réservoir Beaudet.jpg": "2026-11-28",
    "File:Quill-shaped cirrus cloud.jpg": "2026-11-20",
    "File:Sunset backlight of dates.jpg": "2026-11-25",
+   "File:Sunset from Dresser Hill, Charlton MA 2026-05-10.jpg": "2026-11-28",
    "File:Sunset with tree 3.jpg": "2026-11-25",
    "File:Un nuage au-dessus de Crévoux (Hautes-Alpes) proche cascades (mai 2021).jpg": "2026-11-27",
    "File:Utah Dunes Landscape - West Desert District.jpg": "2026-11-26",
    "File:Wadi rum desert.jpg": "2026-11-24",
-   "File:Wetterspitzen (Stubaier Alpen).jpg": "2026-11-18"
+   "File:Wetterspitzen (Stubaier Alpen).jpg": "2026-11-18",
+   "File:Île d'Orléans 009.jpg": "2026-11-28"
   },
   "hadis": {
    "3074": "2026-11-18",
@@ -67,7 +72,8 @@
    "5796": "2026-11-21",
    "5799": "2026-11-22",
    "5803": "2026-11-20",
-   "66272": "2026-11-23"
+   "66272": "2026-11-23",
+   "66511": "2026-11-28"
   }
  },
  "son": {
@@ -75,52 +81,52 @@
    {
     "dosya": "Ayet/00-gunun-ayeti.jpg",
     "fotograf": {
-     "baslik": "File:Lever du 16 Juillet 2025.jpg",
-     "indirilen": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Lever_du_16_Juillet_2025.jpg/3840px-Lever_du_16_Juillet_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "baslik": "File:Parc du réservoir Beaudet.jpg",
+     "indirilen": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Parc_du_r%C3%A9servoir_Beaudet.jpg/3840px-Parc_du_r%C3%A9servoir_Beaudet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
      "lisans": "cc0",
      "lisans_adi": "CC0",
-     "ozgun_sha1": "3b54bad72729c46871fd6b06192e48ee2f434f68",
-     "sayfa": "https://commons.wikimedia.org/wiki/File:Lever_du_16_Juillet_2025.jpg",
-     "yazar": "Smailtn Camera location 36° 46′ 21.62″ N, 10° 17′ 31.74″ E View this and other nearby images on: OpenStreetMap 36.772672; 10.292149"
+     "ozgun_sha1": "6d73921fc920e875231fdf875d13bce92b06ce09",
+     "sayfa": "https://commons.wikimedia.org/wiki/File:Parc_du_r%C3%A9servoir_Beaudet.jpg",
+     "yazar": "Wilfredor"
     },
-    "kayit": "49:10",
+    "kayit": "67:2",
     "kaynak": "Arapça: Tanzil.net, Uthmani 1.1 (CC BY 3.0) · Meal: Rowwad Tercüme Merkezi, Türkçe 1.0.4 · QuranEnc.com",
-    "kunye": "Hucurât Sûresi, 49:10",
+    "kunye": "Mülk Sûresi, 67:2",
     "tur": "ayet"
    },
    {
     "dosya": "Hadis/00-gunun-hadisi.jpg",
     "fotograf": {
-     "baslik": "File:Desna river Vinn meadow 2019 G01.jpg",
-     "indirilen": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Desna_river_Vinn_meadow_2019_G01.jpg/3840px-Desna_river_Vinn_meadow_2019_G01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "lisans": "pd",
-     "lisans_adi": "Public domain",
-     "ozgun_sha1": "38b1093df5b09df98cbd348dade318e9ff4c8afb",
-     "sayfa": "https://commons.wikimedia.org/wiki/File:Desna_river_Vinn_meadow_2019_G01.jpg",
-     "yazar": "George Chernilevsky"
+     "baslik": "File:Île d'Orléans 009.jpg",
+     "indirilen": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/%C3%8Ele_d%27Orl%C3%A9ans_009.jpg/3840px-%C3%8Ele_d%27Orl%C3%A9ans_009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "lisans": "cc0",
+     "lisans_adi": "CC0",
+     "ozgun_sha1": "d186fcdf226bb052b24152d1ae91cdd684ef6156",
+     "sayfa": "https://commons.wikimedia.org/wiki/File:%C3%8Ele_d%27Orl%C3%A9ans_009.jpg",
+     "yazar": "Wilfredor"
     },
-    "kayit": "hadeethenc:5510",
-    "kaynak": "HadeethEnc.com · Nebevi Hadisler Ansiklopedisi Tercümesi v1.71.0 · hadeethenc.com/tr/browse/hadith/5510",
-    "kunye": "Sahih li-gayrihî · İbn Ebî Şeybe rivayet etmiştir - Taberânî rivayet etmiştir - Ahmed rivayet etmiştir - Mâlik rivayet etmiştir",
+    "kayit": "hadeethenc:66511",
+    "kaynak": "HadeethEnc.com · Nebevi Hadisler Ansiklopedisi Tercümesi v1.71.0 · hadeethenc.com/tr/browse/hadith/66511",
+    "kunye": "Sahih Hadis · Muhaddislerin iki imamı Ebû Abdullah Muhammed b. İsmail b. İbrahim b. el-Muğîre b. Berdizbeh el-Buhârî ve Ebû'l-Hüseyn Müslim b. el-Haccâc b. Müslim el-Kuşeyrî en-Nîsâbûrî, bunu -telif edilmiş kitapla",
     "tur": "hadis"
    },
    {
     "dosya": "Dua/00-gunun-duasi.jpg",
     "fotograf": {
-     "baslik": "File:Un nuage au-dessus de Crévoux (Hautes-Alpes) proche cascades (mai 2021).jpg",
-     "indirilen": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Un_nuage_au-dessus_de_Cr%C3%A9voux_%28Hautes-Alpes%29_proche_cascades_%28mai_2021%29.jpg/3840px-Un_nuage_au-dessus_de_Cr%C3%A9voux_%28Hautes-Alpes%29_proche_cascades_%28mai_2021%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "baslik": "File:Sunset from Dresser Hill, Charlton MA 2026-05-10.jpg",
+     "indirilen": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Sunset_from_Dresser_Hill%2C_Charlton_MA_2026-05-10.jpg/3840px-Sunset_from_Dresser_Hill%2C_Charlton_MA_2026-05-10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
      "lisans": "cc0",
      "lisans_adi": "CC0",
-     "ozgun_sha1": "e9caefc16b9b92d7d7c1c8e2b6d9e66841a72ed3",
-     "sayfa": "https://commons.wikimedia.org/wiki/File:Un_nuage_au-dessus_de_Cr%C3%A9voux_(Hautes-Alpes)_proche_cascades_(mai_2021).jpg",
-     "yazar": "Benoît Prieur"
+     "ozgun_sha1": "93b873ad18e68afc9b0d54fb7a18177dfefcc995",
+     "sayfa": "https://commons.wikimedia.org/wiki/File:Sunset_from_Dresser_Hill,_Charlton_MA_2026-05-10.jpg",
+     "yazar": "Peter Cooper Jr."
     },
-    "kayit": "23:29",
+    "kayit": "2:127",
     "kaynak": "Arapça: Tanzil.net, Uthmani 1.1 (CC BY 3.0) · Meal: Rowwad Tercüme Merkezi, Türkçe 1.0.4 · QuranEnc.com",
-    "kunye": "Mü’minûn Sûresi, 23:29",
+    "kunye": "Bakara Sûresi, 2:127",
     "tur": "dua"
    }
   ],
-  "tarih": "2026-11-27"
+  "tarih": "2026-11-28"
  }
 }
