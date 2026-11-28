@@ -11,8 +11,8 @@
   {
    "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Ayet/00-gunun-ayeti.jpg",
    "name": "00-gunun-ayeti.jpg",
-   "sha": "c05fe33b5cb55bb56ae6367c9489d2af85833318",
-   "size": 372928,
+   "sha": "5d5bb9a37df16f0ea274a0ea19c7ee1231dcc326",
+   "size": 735113,
    "type": "file"
   }
  ],
@@ -36,8 +36,8 @@
   {
    "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Dua/00-gunun-duasi.jpg",
    "name": "00-gunun-duasi.jpg",
-   "sha": "af01e6f14fd74b5b677b57c86162f705b4852163",
-   "size": 320359,
+   "sha": "55cfab81238a5dc70c0b0da23fca6668c5347ba4",
+   "size": 482639,
    "type": "file"
   }
  ],
@@ -52,8 +52,8 @@
   {
    "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Hadis/00-gunun-hadisi.jpg",
    "name": "00-gunun-hadisi.jpg",
-   "sha": "770f617454ef70bb51c6610ea735cd93d526fe87",
-   "size": 400884,
+   "sha": "5c0950edb67d6561712908a723a215dc224b6258",
+   "size": 724097,
    "type": "file"
   }
  ],
@@ -132,8 +132,8 @@
   {
    "download_url": "https://raw.githubusercontent.com/gturkmenlabs/fecr-icerik/main/Tools/daily_cards_state.json",
    "name": "daily_cards_state.json",
-   "sha": "4b18091fdf792c1947ed96a4359a233ee83fe990",
-   "size": 5585,
+   "sha": "fbcee2d1a0e83c5deb69b8dd986042654551f6f2",
+   "size": 5661,
    "type": "file"
   },
   {
